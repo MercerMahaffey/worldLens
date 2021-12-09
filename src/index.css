@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.websiteName{
+  font-family: 'Noto Serif Display', serif;
+  color: black;
+  font-size: 35;
+  text-decoration: none;
+}
+.pageLink, .pageLink:hover{
+  font-family: 'Noto Serif Display', serif;
+  color: rgb(20, 111, 197);
+  text-decoration: none;
+  font-size: 13px;
+}
+.pageLink2, .pageLink2:hover{
+  font-family: 'Noto Serif Display', serif;
+  color: rgb(20, 111, 197);
+  text-decoration: none;
+  font-size: 16px;
+}
+.selectedCountry{
+  text-decoration: none;
+  font-family: 'Noto Serif Display', serif;
+  color: rgb(41, 126, 206);
+}
+.countryFlag{
+  height: 80px;
+}
+.countryInformationText{
+  font-family: 'Noto Serif Display', serif;
+  color: black;
+  font-size: 35;
+}
+.info-header{
+  text-align: center;
+  font-family: 'Noto Serif Display', serif;
+  color: black;
+}
+.info-text{
+  font-family: 'Noto Serif Display', serif;
+  color: black;
+}
+.showHide{
+  font-size: 50;
+  font-weight: bold;
+  color: black;
+}
+.countryInfoSection{
+  font-family: 'Noto Serif Display', serif;
+  color: black;
+  font-size: 35;
+}
+.countryInfoSection:hover{
+  font-family: 'Noto Serif Display', serif;
+  color: rgb(20, 111, 197);;
+  font-size: 35;
+  cursor: pointer;
+}

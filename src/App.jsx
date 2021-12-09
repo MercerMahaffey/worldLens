@@ -89,6 +89,7 @@ function App() {
       // console.log(docCountryNamesArray);
       // console.log(docParsed);
       console.log(docFilteredArray);
+      console.log('changed security policy');
 
       dispatch(addDocCSV(docFilteredArray));
       

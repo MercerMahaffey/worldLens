@@ -122,7 +122,7 @@ function CountryInformation() {
     // let age1524 = parseFloat(countryFacts["People and Society"]["Age structure"]["15-24 years"].text.split('%')[0]);
 
     if (countryFacts["People and Society"]) {
-        console.log(countryFacts);
+        // console.log(countryFacts);
         // console.log(countryFacts.Economy["Economy - overview"].text.indexOf(" ++ "));
 
         let age014 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value*(parseFloat(countryFacts["People and Society"]["Age structure"]["0-14 years"].text.split('%')[0])/100))

@@ -274,8 +274,8 @@ function Graph() {
     ]
 
     // console.log(countriesData);
-    console.log(country1Facts);
-    console.log(country2Facts);
+    // console.log(country1Facts);
+    // console.log(country2Facts);
     return (
         <>
 

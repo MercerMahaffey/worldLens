@@ -111,7 +111,7 @@ function Graph() {
         if (!countriesData) {
             grabData();
         }
-        console.log('initializing labels');
+        // console.log('initializing labels');
         countriesData.data[0].populationCounts.forEach((country, index) => {
             let startDate = 1960;
             let combinedDate = startDate + index;

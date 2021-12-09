@@ -88,6 +88,7 @@ function App() {
       })
       // console.log(docCountryNamesArray);
       // console.log(docParsed);
+      console.log(docFilteredArray);
 
       dispatch(addDocCSV(docFilteredArray));
       

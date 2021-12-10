@@ -68,7 +68,7 @@ function App() {
       // console.log(popCSVResult);
       let popParsed = readString(popCSVResult);
       // console.log(parsed);
-      dispatch(addPopCSV(popParsed));
+      // dispatch(addPopCSV(popParsed));
       
       let doctorsCSVResponse = await fetch('http://apps.who.int/gho/athena/api/GHO/HWF_0001?format=csv',);
       let doctorsCSVResult = await doctorsCSVResponse.text();
@@ -84,12 +84,9 @@ function App() {
           return false
         }
       })
-      // console.log(docCountryNamesArray);
-      // console.log(docParsed);
       console.log(docFilteredArray);
-      console.log('changed security policy');
 
-      dispatch(addDocCSV(docFilteredArray));
+      // dispatch(addDocCSV(docFilteredArray));
       
       let airCSVResponse = await fetch('http://apps.who.int/gho/athena/api/GHO/SDGPM25?format=csv');
       let airCSVResult = await airCSVResponse.text();
@@ -108,7 +105,7 @@ function App() {
       })
 
       
-      dispatch(addAirCSV(airFilteredArray));
+      // dispatch(addAirCSV(airFilteredArray));
       
     }
     if (countriesData.length === 0) {

@@ -1,0 +1,4033 @@
+ISO3,Country,2015
+LVA,Latvia,10
+LUX,Luxembourg,10.02
+SMR,San Marino,10.06
+SMR,San Marino,10.06
+DNK,Denmark,10.11
+CHE,Switzerland,10.11
+MHL,Marshall Islands,10.2
+MHL,Marshall Islands,10.2
+LUX,Luxembourg,10.2
+DEU,Germany,10.23
+VUT,Vanuatu,10.28
+CHE,Switzerland,10.32
+GBR,United Kingdom of Great Britain and Northern Ireland,10.33
+FJI,Fiji,10.35
+FSM,Micronesia (Federated States of),10.36
+MDV,Maldives,10.4
+GBR,United Kingdom of Great Britain and Northern Ireland,10.45
+VUT,Vanuatu,10.5
+MUS,Mauritius,10.52
+AUT,Austria,10.54
+FSM,Micronesia (Federated States of),10.54
+ITA,Italy,10.6
+NLD,Netherlands,10.66
+WSM,Samoa,10.66
+FJI,Fiji,10.7
+LTU,Lithuania,10.71
+TON,Tonga,10.72
+WSM,Samoa,10.76
+FSM,Micronesia (Federated States of),10.81
+KIR,Kiribati,10.82
+BRA,Brazil,10.85
+TON,Tonga,10.95
+MDV,Maldives,10.97
+WSM,Samoa,10.98
+SLB,Solomon Islands,10.99
+PNG,Papua New Guinea,11.01
+FJI,Fiji,11.07
+KIR,Kiribati,11.07
+PNG,Papua New Guinea,11.11
+VUT,Vanuatu,11.12
+TON,Tonga,11.12
+SLB,Solomon Islands,11.12
+RUS,Russian Federation,11.2
+MUS,Mauritius,11.36
+JPN,Japan,11.45
+FRA,France,11.45
+DEU,Germany,11.51
+MCO,Monaco,11.52
+MCO,Monaco,11.52
+KIR,Kiribati,11.56
+GRC,Greece,11.59
+BRA,Brazil,11.62
+LTU,Lithuania,11.7
+BRA,Brazil,11.76
+DEU,Germany,11.76
+SLB,Solomon Islands,11.8
+PRY,Paraguay,11.81
+PRY,Paraguay,11.94
+NLD,Netherlands,11.96
+PRY,Paraguay,12
+NLD,Netherlands,12.01
+MDV,Maldives,12.01
+AUT,Austria,12.15
+PNG,Papua New Guinea,12.18
+FRA,France,12.21
+LVA,Latvia,12.33
+ARG,Argentina,12.35
+ARG,Argentina,12.58
+BEL,Belgium,12.68
+UKR,Ukraine,12.71
+MDA,Republic of Moldova,12.76
+BEL,Belgium,12.78
+CYP,Cyprus,12.95
+AUT,Austria,12.95
+MYS,Malaysia,13.12
+MLT,Malta,13.14
+ARG,Argentina,13.15
+MLT,Malta,13.15
+ROU,Romania,13.33
+JPN,Japan,13.42
+MDA,Republic of Moldova,13.55
+SYC,Seychelles,13.67
+SYC,Seychelles,13.67
+SYC,Seychelles,13.7
+JPN,Japan,13.74
+DOM,Dominican Republic,13.86
+CZE,Czechia,13.94
+JAM,Jamaica,13.96
+UKR,Ukraine,13.98
+GRC,Greece,14.04
+MDA,Republic of Moldova,14.09
+BLR,Belarus,14.35
+LVA,Latvia,14.41
+PAN,Panama,14.48
+BHS,Bahamas,14.57
+CYP,Cyprus,14.72
+PAN,Panama,14.74
+ROU,Romania,14.76
+ITA,Italy,14.84
+JAM,Jamaica,14.86
+HUN,Hungary,14.9
+UKR,Ukraine,14.93
+GRC,Greece,14.99
+COM,Comoros,15.28
+ITA,Italy,15.29
+SVN,Slovenia,15.32
+COM,Comoros,15.34
+PAN,Panama,15.35
+SGP,Singapore,15.35
+JAM,Jamaica,15.36
+CZE,Czechia,15.41
+COM,Comoros,15.49
+CYP,Cyprus,15.59
+ROU,Romania,15.74
+CZE,Czechia,15.82
+TLS,Timor-Leste,15.88
+ATG,Antigua and Barbuda,15.92
+HTI,Haiti,16.01
+HUN,Hungary,16.04
+DOM,Dominican Republic,16.04
+HRV,Croatia,16.12
+KAZ,Kazakhstan,16.14
+MYS,Malaysia,16.27
+SVN,Slovenia,16.29
+LKA,Sri Lanka,16.33
+TLS,Timor-Leste,16.34
+CUB,Cuba,16.35
+BLR,Belarus,16.36
+DOM,Dominican Republic,16.53
+LKA,Sri Lanka,16.54
+BHS,Bahamas,16.57
+HUN,Hungary,16.66
+TKM,Turkmenistan,16.67
+LKA,Sri Lanka,16.77
+SVN,Slovenia,16.77
+SVK,Slovakia,16.78
+MYS,Malaysia,17.15
+MDG,Madagascar,17.2
+ALB,Albania,17.2
+SGP,Singapore,17.24
+SGP,Singapore,17.24
+HRV,Croatia,17.26
+GEO,Georgia,17.37
+ISR,Israel,17.4
+IDN,Indonesia,17.42
+MDG,Madagascar,17.5
+HTI,Haiti,17.56
+TLS,Timor-Leste,17.69
+BHS,Bahamas,17.74
+HRV,Croatia,17.75
+BGR,Bulgaria,17.82
+SVK,Slovakia,17.82
+KAZ,Kazakhstan,17.84
+COL,Colombia,17.85
+MDG,Madagascar,17.92
+ALB,Albania,18.07
+BLR,Belarus,18.12
+TKM,Turkmenistan,18.24
+SVK,Slovakia,18.27
+COL,Colombia,18.45
+PHL,Philippines,18.52
+ISR,Israel,18.52
+ISR,Israel,18.59
+POL,Poland,18.59
+CRI,Costa Rica,18.64
+CRI,Costa Rica,18.69
+AZE,Azerbaijan,18.74
+DMA,Dominica,18.76
+CRI,Costa Rica,18.83
+COL,Colombia,19.03
+BGR,Bulgaria,19.04
+VNM,Viet Nam,19.05
+IDN,Indonesia,19.05
+LCA,Saint Lucia,19.1
+CUB,Cuba,19.11
+ALB,Albania,19.32
+ECU,Ecuador,19.4
+MNE,Montenegro,19.41
+LAO,Lao People's Democratic Republic,19.46
+HTI,Haiti,19.51
+ECU,Ecuador,19.55
+ECU,Ecuador,19.66
+SWZ,Eswatini,19.78
+SWZ,Eswatini,19.9
+MOZ,Mozambique,19.94
+SWZ,Eswatini,19.94
+VEN,Venezuela (Bolivarian Republic of),20.11
+CHL,Chile,20.13
+VEN,Venezuela (Bolivarian Republic of),20.26
+VCT,Saint Vincent and the Grenadines,20.37
+MNE,Montenegro,20.39
+VEN,Venezuela (Bolivarian Republic of),20.44
+LAO,Lao People's Democratic Republic,20.46
+NAM,Namibia,20.48
+DMA,Dominica,20.5
+KGZ,Kyrgyzstan,20.57
+BLZ,Belize,20.6
+BLZ,Belize,20.61
+SUR,Suriname,20.61
+IDN,Indonesia,20.66
+BLZ,Belize,20.7
+MNE,Montenegro,20.85
+POL,Poland,20.96
+AZE,Azerbaijan,20.99
+ATG,Antigua and Barbuda,21.03
+BGR,Bulgaria,21.08
+GRD,Grenada,21.09
+GUY,Guyana,21.14
+ATG,Antigua and Barbuda,21.15
+MOZ,Mozambique,21.22
+PHL,Philippines,21.29
+NIC,Nicaragua,21.53
+DMA,Dominica,21.59
+LAO,Lao People's Democratic Republic,21.78
+POL,Poland,21.9
+VNM,Viet Nam,22.01
+MOZ,Mozambique,22.1
+GEO,Georgia,22.15
+NIC,Nicaragua,22.16
+ZAF,South Africa,22.24
+MEX,Mexico,22.44
+TTO,Trinidad and Tobago,22.59
+NIC,Nicaragua,22.63
+CUB,Cuba,22.68
+VCT,Saint Vincent and the Grenadines,22.72
+MEX,Mexico,22.73
+MEX,Mexico,22.77
+GRD,Grenada,22.87
+LCA,Saint Lucia,22.89
+LCA,Saint Lucia,22.94
+VCT,Saint Vincent and the Grenadines,23.09
+GRD,Grenada,23.14
+GUY,Guyana,23.14
+AZE,Azerbaijan,23.21
+TTO,Trinidad and Tobago,23.32
+PHL,Philippines,23.72
+VNM,Viet Nam,23.75
+KGZ,Kyrgyzstan,23.88
+BRB,Barbados,23.89
+SRB,Serbia,23.9
+CHL,Chile,23.92
+UZB,Uzbekistan,23.97
+NAM,Namibia,24.05
+KEN,Kenya,24.07
+LSO,Lesotho,24.28
+TTO,Trinidad and Tobago,24.41
+LSO,Lesotho,24.49
+KHM,Cambodia,24.51
+ZWE,Zimbabwe,24.56
+TZA,United Republic of Tanzania,24.57
+MWI,Malawi,24.63
+BRB,Barbados,24.82
+SRB,Serbia,24.85
+BIH,Bosnia and Herzegovina,24.86
+KHM,Cambodia,25.05
+BWA,Botswana,25.05
+ZAF,South Africa,25.15
+SRB,Serbia,25.15
+BWA,Botswana,25.16
+ZWE,Zimbabwe,25.18
+BOL,Bolivia (Plurinational State of),25.18
+BWA,Botswana,25.18
+HND,Honduras,25.41
+BRB,Barbados,25.42
+ZWE,Zimbabwe,25.45
+HND,Honduras,25.47
+HND,Honduras,25.51
+KAZ,Kazakhstan,25.6
+MWI,Malawi,25.62
+KOR,Republic of Korea,25.69
+MWI,Malawi,25.83
+LSO,Lesotho,25.84
+MKD,The former Yugoslav Republic of Macedonia,25.94
+ARM,Armenia,26.03
+BOL,Bolivia (Plurinational State of),26.06
+PER,Peru,26.32
+CHL,Chile,26.34
+KOR,Republic of Korea,26.41
+SUR,Suriname,26.48
+KOR,Republic of Korea,26.5
+KEN,Kenya,26.6
+TZA,United Republic of Tanzania,26.73
+GUY,Guyana,26.77
+GEO,Georgia,26.95
+KHM,Cambodia,27.21
+BOL,Bolivia (Plurinational State of),27.29
+KEN,Kenya,27.45
+TZA,United Republic of Tanzania,27.51
+NAM,Namibia,27.56
+SOM,Somalia,27.66
+SOM,Somalia,27.67
+SOM,Somalia,27.67
+BIH,Bosnia and Herzegovina,28.14
+MAR,Morocco,28.19
+KGZ,Kyrgyzstan,28.24
+UZB,Uzbekistan,28.3
+THA,Thailand,28.3
+MAR,Morocco,28.38
+MAR,Morocco,28.57
+SLV,El Salvador,28.97
+SLV,El Salvador,29.14
+SLV,El Salvador,29.28
+ZMB,Zambia,29.42
+ZAF,South Africa,29.42
+MKD,The former Yugoslav Republic of Macedonia,29.59
+LBN,Lebanon,29.64
+THA,Thailand,29.83
+GTM,Guatemala,30.17
+SUR,Suriname,30.2
+PER,Peru,30.46
+GTM,Guatemala,30.47
+LBN,Lebanon,30.66
+BIH,Bosnia and Herzegovina,30.69
+LBN,Lebanon,30.7
+ZMB,Zambia,30.79
+GTM,Guatemala,30.88
+ETH,Ethiopia,31.11
+ZMB,Zambia,31.45
+TJK,Tajikistan,31.6
+ETH,Ethiopia,31.85
+THA,Thailand,31.88
+ETH,Ethiopia,32.13
+TUN,Tunisia,32.48
+JOR,Jordan,32.76
+MMR,Myanmar,33.02
+MMR,Myanmar,33.15
+JOR,Jordan,33.2
+TKM,Turkmenistan,33.26
+TUN,Tunisia,33.27
+PER,Peru,33.32
+MKD,The former Yugoslav Republic of Macedonia,33.64
+IRN,Iran (Islamic Republic of),33.68
+MMR,Myanmar,33.73
+ARM,Armenia,33.84
+UZB,Uzbekistan,33.86
+DZA,Algeria,34.13
+IRN,Iran (Islamic Republic of),34.45
+SSD,South Sudan,34.57
+SSD,South Sudan,34.75
+SSD,South Sudan,34.77
+TJK,Tajikistan,34.86
+IRN,Iran (Islamic Republic of),35.02
+MNG,Mongolia,35.07
+DZA,Algeria,35.18
+TUN,Tunisia,35.34
+ERI,Eritrea,35.35
+SYR,Syrian Arab Republic,35.58
+BDI,Burundi,36.56
+PRK,Democratic People's Republic of Korea,36.64
+BDI,Burundi,36.81
+TUR,Turkey,36.88
+BTN,Bhutan,36.9
+ERI,Eritrea,37.02
+TUR,Turkey,37.21
+BDI,Burundi,37.25
+JOR,Jordan,37.28
+AGO,Angola,37.36
+SYR,Syrian Arab Republic,37.43
+BTN,Bhutan,37.57
+BTN,Bhutan,37.68
+ERI,Eritrea,37.69
+TUR,Turkey,37.73
+DJI,Djibouti,38.22
+AGO,Angola,38.29
+DJI,Djibouti,38.34
+STP,Sao Tome and Principe,38.38
+DJI,Djibouti,38.5
+BEN,Benin,38.8
+PRK,Democratic People's Republic of Korea,38.89
+STP,Sao Tome and Principe,39
+STP,Sao Tome and Principe,39.17
+RWA,Rwanda,39.42
+DZA,Algeria,39.57
+RWA,Rwanda,39.7
+PRK,Democratic People's Republic of Korea,39.74
+RWA,Rwanda,39.83
+CAN,Canada,4.93
+YEM,Yemen,40.26
+AGO,Angola,40.32
+GAB,Gabon,40.38
+GAB,Gabon,40.81
+OMN,Oman,41.33
+YEM,Yemen,41.46
+GAB,Gabon,41.51
+COG,Congo,41.67
+UGA,Uganda,41.96
+COD,Democratic Republic of the Congo,42.04
+YEM,Yemen,42.12
+BEN,Benin,42.17
+ARE,United Arab Emirates,42.24
+CHN,China,42.43
+COD,Democratic Republic of the Congo,42.5
+UGA,Uganda,42.75
+MNG,Mongolia,42.79
+COG,Congo,42.88
+CAF,Central African Republic,42.9
+SDN,Sudan,42.99
+CAF,Central African Republic,43.27
+COD,Democratic Republic of the Congo,43.35
+CAF,Central African Republic,43.45
+OMN,Oman,43.69
+SDN,Sudan,43.8
+SDN,Sudan,44.08
+GNQ,Equatorial Guinea,44.38
+COG,Congo,44.42
+GNQ,Equatorial Guinea,44.47
+ARE,United Arab Emirates,44.87
+GNQ,Equatorial Guinea,45.04
+TGO,Togo,45.09
+BEN,Benin,45.38
+TGO,Togo,45.48
+ARM,Armenia,45.53
+OMN,Oman,45.72
+UGA,Uganda,45.74
+CHN,China,45.76
+ARE,United Arab Emirates,45.84
+TGO,Togo,46.08
+LBY,Libya,46.37
+TJK,Tajikistan,46.47
+SYR,Syrian Arab Republic,46.76
+NGA,Nigeria,47.11
+CHN,China,48.77
+LBY,Libya,49.23
+SWE,Sweden,5.15
+FIN,Finland,5.33
+EST,Estonia,5.73
+SWE,Sweden,5.73
+FIN,Finland,5.75
+ISL,Iceland,5.81
+ISL,Iceland,5.81
+ISL,Iceland,5.82
+LBY,Libya,50.31
+GHA,Ghana,51.65
+LBR,Liberia,52.03
+LBR,Liberia,52.28
+LBR,Liberia,52.47
+AFG,Afghanistan,52.84
+GIN,Guinea,53.12
+SLE,Sierra Leone,53.26
+GIN,Guinea,53.32
+GNB,Guinea-Bissau,53.76
+GIN,Guinea,53.8
+IRQ,Iraq,54.18
+BFA,Burkina Faso,54.22
+SLE,Sierra Leone,54.28
+GNB,Guinea-Bissau,54.43
+GHA,Ghana,54.5
+GNB,Guinea-Bissau,55.02
+AFG,Afghanistan,55.14
+IRQ,Iraq,55.42
+GHA,Ghana,55.62
+BFA,Burkina Faso,55.96
+SLE,Sierra Leone,56.02
+PAK,Pakistan,56.18
+IRQ,Iraq,56.39
+BFA,Burkina Faso,56.48
+KWT,Kuwait,56.52
+CIV,Côte d’Ivoire,56.71
+GMB,Gambia,56.73
+CIV,Côte d’Ivoire,57.65
+GMB,Gambia,57.74
+GMB,Gambia,58.43
+CIV,Côte d’Ivoire,58.47
+SAU,Saudi Arabia,58.62
+BGD,Bangladesh,58.69
+PAK,Pakistan,58.76
+SEN,Senegal,59.77
+SEN,Senegal,59.77
+SEN,Senegal,59.78
+MNG,Mongolia,59.97
+SWE,Sweden,6.03
+NOR,Norway,6.17
+AUS,Australia,6.21
+NZL,New Zealand,6.32
+USA,United States of America,6.36
+EST,Estonia,6.41
+CAN,Canada,6.41
+FIN,Finland,6.48
+NZL,New Zealand,6.65
+CAN,Canada,6.69
+NZL,New Zealand,6.72
+EST,Estonia,6.73
+NOR,Norway,6.82
+SAU,Saudi Arabia,60.11
+IND,India,60.94
+NGA,Nigeria,61.73
+BHR,Bahrain,61.73
+CPV,Cabo Verde,62.05
+CPV,Cabo Verde,62.2
+KWT,Kuwait,62.59
+PAK,Pakistan,62.61
+BGD,Bangladesh,62.79
+CPV,Cabo Verde,62.87
+MLI,Mali,63.07
+BHR,Bahrain,63.21
+BHR,Bahrain,63.32
+AFG,Afghanistan,63.61
+TCD,Chad,63.61
+MLI,Mali,63.64
+SAU,Saudi Arabia,63.96
+MLI,Mali,64.04
+BGD,Bangladesh,64.13
+TCD,Chad,64.27
+CMR,Cameroon,64.27
+KWT,Kuwait,64.97
+CMR,Cameroon,65.42
+CMR,Cameroon,66.63
+EGY,Egypt,66.73
+TCD,Chad,66.75
+IND,India,68.76
+AUS,Australia,7.14
+IRL,Ireland,7.28
+AUS,Australia,7.29
+PRT,Portugal,7.3
+USA,United States of America,7.43
+BRN,Brunei Darussalam,7.44
+BRN,Brunei Darussalam,7.51
+NOR,Norway,7.64
+USA,United States of America,7.67
+PRT,Portugal,7.69
+BRN,Brunei Darussalam,7.8
+ESP,Spain,7.97
+AND,Andorra,7.99
+MRT,Mauritania,70.81
+EGY,Egypt,72.31
+NGA,Nigeria,72.78
+EGY,Egypt,72.97
+QAT,Qatar,73.3
+MRT,Mauritania,74.13
+NPL,Nepal,77.72
+MRT,Mauritania,78.1
+IND,India,78.16
+IRL,Ireland,8.01
+RUS,Russian Federation,8.09
+GBR,United Kingdom of Great Britain and Northern Ireland,8.09
+NRU,Nauru,8.19
+NRU,Nauru,8.19
+CHE,Switzerland,8.3
+PRT,Portugal,8.4
+IRL,Ireland,8.49
+TUV,Tuvalu,8.5
+TUV,Tuvalu,8.5
+LUX,Luxembourg,8.54
+PLW,Palau,8.68
+AND,Andorra,8.71
+PLW,Palau,8.79
+PLW,Palau,8.84
+COK,Cook Islands,8.87
+COK,Cook Islands,8.87
+QAT,Qatar,80.8
+NPL,Nepal,81.57
+QAT,Qatar,81.64
+NPL,Nepal,87.97
+NER,Niger,89.42
+BEL,Belgium,9.1
+DNK,Denmark,9.12
+ESP,Spain,9.2
+NIU,Niue,9.34
+NIU,Niue,9.34
+MLT,Malta,9.43
+AND,Andorra,9.47
+ESP,Spain,9.51
+MUS,Mauritius,9.52
+URY,Uruguay,9.6
+FRA,France,9.64
+KNA,Saint Kitts and Nevis,9.72
+KNA,Saint Kitts and Nevis,9.73
+KNA,Saint Kitts and Nevis,9.79
+RUS,Russian Federation,9.8
+DNK,Denmark,9.85
+NRU,Nauru,9.88
+LTU,Lithuania,9.91
+URY,Uruguay,9.95
+URY,Uruguay,9.99
+NER,Niger,93.18
+NER,Niger,93.83
+ESP,Spain,10.08
+MHL,Marshall Islands,10.15
+MHL,Marshall Islands,10.15
+MDV,Maldives,10.32
+VUT,Vanuatu,10.36
+FJI,Fiji,10.39
+ESP,Spain,10.4
+TON,Tonga,10.43
+FRA,France,10.48
+RUS,Russian Federation,10.51
+MLT,Malta,10.53
+KIR,Kiribati,10.55
+FSM,Micronesia (Federated States of),10.55
+TON,Tonga,10.59
+DNK,Denmark,10.6
+VUT,Vanuatu,10.61
+MUS,Mauritius,10.64
+KIR,Kiribati,10.65
+WSM,Samoa,10.68
+TON,Tonga,10.71
+FSM,Micronesia (Federated States of),10.73
+LVA,Latvia,10.73
+LTU,Lithuania,10.73
+AND,Andorra,10.74
+FJI,Fiji,10.75
+GBR,United Kingdom of Great Britain and Northern Ireland,10.76
+SLB,Solomon Islands,10.81
+PNG,Papua New Guinea,10.83
+WSM,Samoa,10.86
+DNK,Denmark,10.88
+GBR,United Kingdom of Great Britain and Northern Ireland,10.88
+PNG,Papua New Guinea,10.91
+SLB,Solomon Islands,10.93
+LUX,Luxembourg,10.94
+FSM,Micronesia (Federated States of),10.95
+BRA,Brazil,10.97
+VUT,Vanuatu,11.05
+JPN,Japan,11.09
+FJI,Fiji,11.1
+KIR,Kiribati,11.12
+LUX,Luxembourg,11.15
+WSM,Samoa,11.17
+MDV,Maldives,11.2
+CHE,Switzerland,11.21
+DEU,Germany,11.3
+CHE,Switzerland,11.45
+MUS,Mauritius,11.46
+AUT,Austria,11.6
+LTU,Lithuania,11.61
+SLB,Solomon Islands,11.62
+NLD,Netherlands,11.69
+ITA,Italy,11.74
+BRA,Brazil,11.77
+BRA,Brazil,11.92
+RUS,Russian Federation,11.95
+PNG,Papua New Guinea,12.01
+ARG,Argentina,12.24
+PRY,Paraguay,12.32
+MYS,Malaysia,12.4
+PRY,Paraguay,12.47
+ARG,Argentina,12.5
+FRA,France,12.5
+PRY,Paraguay,12.56
+DEU,Germany,12.66
+SYC,Seychelles,12.71
+LTU,Lithuania,12.76
+MCO,Monaco,12.79
+MCO,Monaco,12.79
+SYC,Seychelles,12.8
+SYC,Seychelles,12.81
+GRC,Greece,12.85
+DEU,Germany,12.93
+NLD,Netherlands,12.99
+JPN,Japan,13.04
+NLD,Netherlands,13.05
+LVA,Latvia,13.18
+ARG,Argentina,13.23
+FRA,France,13.34
+JPN,Japan,13.36
+AUT,Austria,13.41
+BEL,Belgium,13.66
+ROU,Romania,13.77
+BEL,Belgium,13.77
+UKR,Ukraine,13.84
+DOM,Dominican Republic,13.99
+MDA,Republic of Moldova,14.07
+JAM,Jamaica,14.1
+AUT,Austria,14.28
+TLS,Timor-Leste,14.54
+MLT,Malta,14.67
+MLT,Malta,14.67
+BHS,Bahamas,14.73
+CYP,Cyprus,14.76
+PAN,Panama,14.77
+CZE,Czechia,14.89
+MDA,Republic of Moldova,14.91
+JAM,Jamaica,14.96
+TLS,Timor-Leste,14.99
+PAN,Panama,15.03
+ROU,Romania,15.17
+UKR,Ukraine,15.22
+SGP,Singapore,15.25
+KAZ,Kazakhstan,15.28
+LVA,Latvia,15.35
+JAM,Jamaica,15.43
+MDA,Republic of Moldova,15.46
+IDN,Indonesia,15.52
+MYS,Malaysia,15.58
+GRC,Greece,15.59
+PAN,Panama,15.65
+HUN,Hungary,15.8
+BLR,Belarus,15.97
+TKM,Turkmenistan,16.06
+COM,Comoros,16.11
+ATG,Antigua and Barbuda,16.17
+COM,Comoros,16.17
+TLS,Timor-Leste,16.19
+HTI,Haiti,16.21
+ROU,Romania,16.23
+DOM,Dominican Republic,16.25
+UKR,Ukraine,16.27
+COM,Comoros,16.29
+SVN,Slovenia,16.33
+CZE,Czechia,16.47
+MYS,Malaysia,16.5
+ITA,Italy,16.53
+CUB,Cuba,16.56
+GRC,Greece,16.66
+IDN,Indonesia,16.68
+BHS,Bahamas,16.74
+DOM,Dominican Republic,16.81
+KAZ,Kazakhstan,16.87
+GEO,Georgia,16.88
+CYP,Cyprus,16.89
+CZE,Czechia,16.93
+SGP,Singapore,17.04
+SGP,Singapore,17.04
+HUN,Hungary,17.04
+ITA,Italy,17.05
+HRV,Croatia,17.11
+SVN,Slovenia,17.33
+PHL,Philippines,17.37
+TKM,Turkmenistan,17.52
+LAO,Lao People's Democratic Republic,17.59
+SVK,Slovakia,17.61
+VNM,Viet Nam,17.62
+BHS,Bahamas,17.63
+HUN,Hungary,17.7
+HTI,Haiti,17.78
+IDN,Indonesia,17.81
+SVN,Slovenia,17.86
+CYP,Cyprus,17.92
+COL,Colombia,18
+AZE,Azerbaijan,18.07
+ALB,Albania,18.17
+BLR,Belarus,18.19
+MDG,Madagascar,18.23
+HRV,Croatia,18.33
+LAO,Lao People's Democratic Republic,18.46
+MDG,Madagascar,18.59
+COL,Colombia,18.64
+LKA,Sri Lanka,18.69
+SVK,Slovakia,18.71
+CRI,Costa Rica,18.75
+BGR,Bulgaria,18.78
+CRI,Costa Rica,18.81
+HRV,Croatia,18.87
+DMA,Dominica,19.01
+CRI,Costa Rica,19.02
+ALB,Albania,19.06
+MDG,Madagascar,19.12
+SVK,Slovakia,19.21
+ECU,Ecuador,19.23
+COL,Colombia,19.27
+LKA,Sri Lanka,19.33
+ISR,Israel,19.37
+ECU,Ecuador,19.4
+CUB,Cuba,19.43
+ECU,Ecuador,19.5
+LAO,Lao People's Democratic Republic,19.63
+KGZ,Kyrgyzstan,19.66
+POL,Poland,19.67
+LCA,Saint Lucia,19.68
+HTI,Haiti,19.76
+LKA,Sri Lanka,19.89
+PHL,Philippines,19.94
+BGR,Bulgaria,20.07
+AZE,Azerbaijan,20.19
+BLR,Belarus,20.23
+BLZ,Belize,20.3
+BLZ,Belize,20.32
+CHL,Chile,20.35
+VEN,Venezuela (Bolivarian Republic of),20.46
+ISR,Israel,20.47
+ALB,Albania,20.49
+BLZ,Belize,20.49
+ISR,Israel,20.54
+DMA,Dominica,20.55
+VEN,Venezuela (Bolivarian Republic of),20.63
+VNM,Viet Nam,20.63
+VCT,Saint Vincent and the Grenadines,20.75
+MNE,Montenegro,20.79
+VEN,Venezuela (Bolivarian Republic of),20.83
+ATG,Antigua and Barbuda,20.99
+SUR,Suriname,21.03
+ATG,Antigua and Barbuda,21.05
+GUY,Guyana,21.34
+GEO,Georgia,21.44
+GRD,Grenada,21.45
+NIC,Nicaragua,21.6
+DMA,Dominica,21.69
+MNE,Montenegro,21.78
+MOZ,Mozambique,21.91
+NIC,Nicaragua,22.17
+PHL,Philippines,22.23
+MNE,Montenegro,22.26
+BGR,Bulgaria,22.31
+AZE,Azerbaijan,22.41
+POL,Poland,22.41
+KEN,Kenya,22.46
+VNM,Viet Nam,22.46
+NIC,Nicaragua,22.58
+MEX,Mexico,22.74
+KGZ,Kyrgyzstan,22.84
+UZB,Uzbekistan,22.85
+MOZ,Mozambique,22.89
+KHM,Cambodia,22.98
+MEX,Mexico,23.02
+TTO,Trinidad and Tobago,23.03
+CUB,Cuba,23.03
+SWZ,Eswatini,23.05
+MEX,Mexico,23.06
+VCT,Saint Vincent and the Grenadines,23.09
+GUY,Guyana,23.33
+SWZ,Eswatini,23.33
+VCT,Saint Vincent and the Grenadines,23.39
+SWZ,Eswatini,23.43
+POL,Poland,23.47
+KHM,Cambodia,23.5
+MOZ,Mozambique,23.55
+GRD,Grenada,23.58
+NAM,Namibia,23.63
+LCA,Saint Lucia,23.71
+LCA,Saint Lucia,23.79
+TTO,Trinidad and Tobago,23.84
+GRD,Grenada,23.84
+BRB,Barbados,23.85
+TZA,United Republic of Tanzania,24.02
+CHL,Chile,24.14
+KAZ,Kazakhstan,24.18
+ZAF,South Africa,24.47
+TTO,Trinidad and Tobago,24.88
+BOL,Bolivia (Plurinational State of),25.11
+BRB,Barbados,25.23
+SRB,Serbia,25.25
+ARM,Armenia,25.28
+KEN,Kenya,25.37
+KOR,Republic of Korea,25.44
+ZWE,Zimbabwe,25.45
+THA,Thailand,25.64
+HND,Honduras,25.68
+HND,Honduras,25.72
+TZA,United Republic of Tanzania,25.76
+HND,Honduras,25.76
+KHM,Cambodia,25.78
+BRB,Barbados,25.9
+BOL,Bolivia (Plurinational State of),25.92
+PER,Peru,25.97
+GEO,Georgia,26.14
+MWI,Malawi,26.19
+NAM,Namibia,26.22
+SRB,Serbia,26.22
+KOR,Republic of Korea,26.26
+BIH,Bosnia and Herzegovina,26.28
+KOR,Republic of Korea,26.37
+TZA,United Republic of Tanzania,26.4
+ZWE,Zimbabwe,26.42
+GUY,Guyana,26.43
+KEN,Kenya,26.43
+SOM,Somalia,26.45
+SRB,Serbia,26.53
+SOM,Somalia,26.55
+SOM,Somalia,26.57
+CHL,Chile,26.58
+ZWE,Zimbabwe,26.79
+THA,Thailand,26.79
+KGZ,Kyrgyzstan,26.87
+BOL,Bolivia (Plurinational State of),27.02
+SUR,Suriname,27.03
+UZB,Uzbekistan,27.05
+ZAF,South Africa,27.11
+MWI,Malawi,27.49
+BWA,Botswana,27.52
+MKD,The former Yugoslav Republic of Macedonia,27.65
+BWA,Botswana,27.7
+MWI,Malawi,27.76
+MAR,Morocco,27.84
+MAR,Morocco,28.09
+MAR,Morocco,28.3
+THA,Thailand,28.43
+BWA,Botswana,28.44
+LSO,Lesotho,28.58
+LSO,Lesotho,28.8
+NAM,Namibia,28.88
+SLV,El Salvador,29.28
+SLV,El Salvador,29.42
+SLV,El Salvador,29.59
+BIH,Bosnia and Herzegovina,29.9
+PER,Peru,29.93
+ZMB,Zambia,30.02
+LSO,Lesotho,30.16
+TUN,Tunisia,30.36
+GTM,Guatemala,30.44
+SUR,Suriname,30.58
+TUN,Tunisia,30.65
+TJK,Tajikistan,30.66
+MMR,Myanmar,30.77
+GTM,Guatemala,30.78
+MMR,Myanmar,30.85
+ZAF,South Africa,30.88
+MMR,Myanmar,31.14
+GTM,Guatemala,31.23
+TUN,Tunisia,31.33
+LBN,Lebanon,31.34
+MKD,The former Yugoslav Republic of Macedonia,31.51
+ETH,Ethiopia,31.53
+MNG,Mongolia,31.96
+ZMB,Zambia,31.99
+UZB,Uzbekistan,32.22
+LBN,Lebanon,32.27
+TKM,Turkmenistan,32.28
+LBN,Lebanon,32.3
+ETH,Ethiopia,32.37
+ETH,Ethiopia,32.68
+PER,Peru,32.69
+BIH,Bosnia and Herzegovina,32.71
+ARM,Armenia,32.76
+ZMB,Zambia,32.92
+DZA,Algeria,33.52
+TJK,Tajikistan,33.84
+JOR,Jordan,33.99
+DZA,Algeria,34.37
+JOR,Jordan,34.52
+IRN,Iran (Islamic Republic of),34.54
+ERI,Eritrea,35.31
+IRN,Iran (Islamic Republic of),35.5
+MKD,The former Yugoslav Republic of Macedonia,35.73
+BDI,Burundi,35.74
+BDI,Burundi,35.95
+IRN,Iran (Islamic Republic of),36.26
+BDI,Burundi,36.31
+SSD,South Sudan,36.47
+BTN,Bhutan,36.59
+SSD,South Sudan,36.67
+SSD,South Sudan,36.7
+SYR,Syrian Arab Republic,36.99
+STP,Sao Tome and Principe,37.01
+BTN,Bhutan,37.24
+ERI,Eritrea,37.29
+BTN,Bhutan,37.4
+STP,Sao Tome and Principe,37.43
+AGO,Angola,37.64
+DZA,Algeria,37.65
+STP,Sao Tome and Principe,37.77
+TUR,Turkey,38.05
+ERI,Eritrea,38.06
+AGO,Angola,38.1
+RWA,Rwanda,38.29
+RWA,Rwanda,38.38
+RWA,Rwanda,38.43
+TUR,Turkey,38.59
+SYR,Syrian Arab Republic,38.94
+AGO,Angola,39.17
+DJI,Djibouti,39.19
+GAB,Gabon,39.3
+BEN,Benin,39.3
+DJI,Djibouti,39.34
+TUR,Turkey,39.47
+GAB,Gabon,39.48
+DJI,Djibouti,39.52
+MNG,Mongolia,39.58
+JOR,Jordan,39.66
+GAB,Gabon,39.67
+PRK,Democratic People's Republic of Korea,40.39
+LBY,Libya,40.5
+COG,Congo,40.77
+UGA,Uganda,40.81
+UGA,Uganda,41.44
+COD,Democratic Republic of the Congo,41.95
+COG,Congo,42.28
+COD,Democratic Republic of the Congo,42.35
+BEN,Benin,42.85
+COD,Democratic Republic of the Congo,43.02
+PRK,Democratic People's Republic of Korea,43.25
+COG,Congo,43.82
+LBY,Libya,43.82
+GNQ,Equatorial Guinea,43.85
+UGA,Uganda,43.86
+CAF,Central African Republic,43.89
+GNQ,Equatorial Guinea,44.01
+ARM,Armenia,44.09
+OMN,Oman,44.19
+PRK,Democratic People's Republic of Korea,44.3
+SDN,Sudan,44.44
+YEM,Yemen,44.56
+CAF,Central African Republic,44.82
+SDN,Sudan,44.93
+SDN,Sudan,45.08
+GNQ,Equatorial Guinea,45.12
+LBY,Libya,45.19
+CAF,Central African Republic,45.29
+TJK,Tajikistan,45.55
+TGO,Togo,45.89
+ARE,United Arab Emirates,46.01
+YEM,Yemen,46.11
+CHN,China,46.12
+TGO,Togo,46.16
+BEN,Benin,46.27
+TGO,Togo,46.46
+OMN,Oman,46.5
+YEM,Yemen,47.08
+SYR,Syrian Arab Republic,47.3
+OMN,Oman,48.38
+ARE,United Arab Emirates,48.75
+NGA,Nigeria,49.3
+ARE,United Arab Emirates,49.63
+SWE,Sweden,5.4
+FIN,Finland,5.64
+CAN,Canada,5.65
+SWE,Sweden,5.99
+CHN,China,50.28
+GHA,Ghana,52.27
+AFG,Afghanistan,52.58
+LBR,Liberia,53.65
+CHN,China,54.1
+LBR,Liberia,54.3
+GHA,Ghana,54.5
+PAK,Pakistan,54.72
+LBR,Liberia,54.88
+AFG,Afghanistan,54.89
+GIN,Guinea,55.16
+GHA,Ghana,55.34
+SLE,Sierra Leone,55.35
+GIN,Guinea,55.62
+MNG,Mongolia,55.79
+IRQ,Iraq,55.96
+SLE,Sierra Leone,56.32
+GIN,Guinea,56.61
+BFA,Burkina Faso,56.66
+PAK,Pakistan,56.89
+CIV,Côte d’Ivoire,57.33
+CIV,Côte d’Ivoire,58.1
+IRQ,Iraq,58.18
+GNB,Guinea-Bissau,58.2
+SLE,Sierra Leone,58.46
+BFA,Burkina Faso,58.5
+CIV,Côte d’Ivoire,58.76
+BFA,Burkina Faso,59.01
+GNB,Guinea-Bissau,59.08
+KWT,Kuwait,59.1
+BGD,Bangladesh,59.58
+IND,India,59.81
+FIN,Finland,6.03
+EST,Estonia,6.09
+AUS,Australia,6.23
+NZL,New Zealand,6.23
+SWE,Sweden,6.29
+ISL,Iceland,6.3
+ISL,Iceland,6.31
+ISL,Iceland,6.32
+NZL,New Zealand,6.55
+NOR,Norway,6.58
+NZL,New Zealand,6.62
+FIN,Finland,6.68
+EST,Estonia,6.8
+IRQ,Iraq,60.09
+PAK,Pakistan,60.1
+GNB,Guinea-Bissau,60.23
+GMB,Gambia,63.01
+GMB,Gambia,63.24
+AFG,Afghanistan,63.43
+GMB,Gambia,63.45
+BGD,Bangladesh,64.02
+NGA,Nigeria,64.39
+KWT,Kuwait,65.05
+BHR,Bahrain,65.1
+TCD,Chad,65.33
+BGD,Bangladesh,65.5
+SEN,Senegal,65.85
+BHR,Bahrain,65.92
+BHR,Bahrain,65.92
+SEN,Senegal,66.17
+TCD,Chad,66.33
+SAU,Saudi Arabia,66.37
+MLI,Mali,66.59
+SEN,Senegal,66.61
+CMR,Cameroon,66.78
+MLI,Mali,67.22
+IND,India,67.22
+KWT,Kuwait,67.37
+SAU,Saudi Arabia,67.62
+MLI,Mali,67.67
+CMR,Cameroon,68.42
+EGY,Egypt,68.75
+CMR,Cameroon,69.99
+USA,United States of America,7.08
+EST,Estonia,7.16
+AUS,Australia,7.19
+NOR,Norway,7.24
+BRN,Brunei Darussalam,7.3
+CAN,Canada,7.33
+BRN,Brunei Darussalam,7.35
+AUS,Australia,7.35
+BRN,Brunei Darussalam,7.66
+CAN,Canada,7.66
+NRU,Nauru,7.74
+NRU,Nauru,7.8
+IRL,Ireland,7.87
+TCD,Chad,70.75
+SAU,Saudi Arabia,70.88
+CPV,Cabo Verde,72.46
+CPV,Cabo Verde,72.61
+CPV,Cabo Verde,73.51
+NPL,Nepal,73.71
+EGY,Egypt,74.52
+EGY,Egypt,75.28
+IND,India,75.92
+NGA,Nigeria,76.57
+NPL,Nepal,76.66
+MRT,Mauritania,78.02
+QAT,Qatar,79.27
+MRT,Mauritania,79.37
+PRT,Portugal,8.05
+NOR,Norway,8.1
+TUV,Tuvalu,8.16
+TUV,Tuvalu,8.16
+USA,United States of America,8.2
+COK,Cook Islands,8.43
+COK,Cook Islands,8.43
+USA,United States of America,8.46
+PRT,Portugal,8.49
+GBR,United Kingdom of Great Britain and Northern Ireland,8.53
+PLW,Palau,8.6
+NIU,Niue,8.62
+NIU,Niue,8.62
+IRL,Ireland,8.64
+PLW,Palau,8.69
+RUS,Russian Federation,8.7
+PLW,Palau,8.73
+ESP,Spain,8.75
+AND,Andorra,8.97
+MRT,Mauritania,80.68
+NPL,Nepal,82.01
+QAT,Qatar,87.95
+QAT,Qatar,88.97
+NER,Niger,89.62
+IRL,Ireland,9.14
+CHE,Switzerland,9.18
+PRT,Portugal,9.29
+KNA,Saint Kitts and Nevis,9.3
+KNA,Saint Kitts and Nevis,9.32
+LUX,Luxembourg,9.32
+NRU,Nauru,9.34
+KNA,Saint Kitts and Nevis,9.37
+URY,Uruguay,9.6
+MUS,Mauritius,9.63
+DNK,Denmark,9.79
+SMR,San Marino,9.87
+SMR,San Marino,9.87
+AND,Andorra,9.87
+BEL,Belgium,9.88
+URY,Uruguay,9.89
+URY,Uruguay,9.92
+MDV,Maldives,9.98
+NER,Niger,91.41
+NER,Niger,91.72
+MLT,Malta,10.07
+MHL,Marshall Islands,10.1
+MHL,Marshall Islands,10.1
+AND,Andorra,10.1
+FSM,Micronesia (Federated States of),10.24
+MDV,Maldives,10.3
+VUT,Vanuatu,10.34
+LUX,Luxembourg,10.34
+FJI,Fiji,10.36
+FSM,Micronesia (Federated States of),10.4
+GBR,United Kingdom of Great Britain and Northern Ireland,10.44
+SLB,Solomon Islands,10.45
+TON,Tonga,10.49
+SLB,Solomon Islands,10.51
+LUX,Luxembourg,10.54
+GBR,United Kingdom of Great Britain and Northern Ireland,10.56
+VUT,Vanuatu,10.56
+FSM,Micronesia (Federated States of),10.6
+MUS,Mauritius,10.65
+TON,Tonga,10.66
+DNK,Denmark,10.66
+KIR,Kiribati,10.67
+MDV,Maldives,10.7
+FJI,Fiji,10.73
+KIR,Kiribati,10.73
+PNG,Papua New Guinea,10.74
+WSM,Samoa,10.78
+PNG,Papua New Guinea,10.83
+WSM,Samoa,10.91
+DEU,Germany,10.92
+TON,Tonga,10.92
+DNK,Denmark,10.96
+CHE,Switzerland,10.97
+FJI,Fiji,11.07
+KIR,Kiribati,11.17
+CHE,Switzerland,11.2
+AUT,Austria,11.2
+WSM,Samoa,11.23
+NLD,Netherlands,11.3
+ITA,Italy,11.36
+SLB,Solomon Islands,11.36
+RUS,Russian Federation,11.36
+JPN,Japan,11.45
+VUT,Vanuatu,11.45
+MUS,Mauritius,11.53
+MDV,Maldives,11.56
+ARG,Argentina,11.75
+MYS,Malaysia,11.82
+FRA,France,11.84
+ARG,Argentina,11.98
+SYC,Seychelles,12.11
+LTU,Lithuania,12.12
+MCO,Monaco,12.12
+MCO,Monaco,12.12
+SYC,Seychelles,12.13
+DEU,Germany,12.15
+PNG,Papua New Guinea,12.15
+SYC,Seychelles,12.19
+BRA,Brazil,12.27
+NLD,Netherlands,12.36
+DEU,Germany,12.39
+NLD,Netherlands,12.41
+SGP,Singapore,12.51
+LVA,Latvia,12.55
+GRC,Greece,12.59
+FRA,France,12.6
+ARG,Argentina,12.63
+BEL,Belgium,12.82
+AUT,Austria,12.82
+BEL,Belgium,12.92
+RUS,Russian Federation,13.01
+PRY,Paraguay,13.03
+LTU,Lithuania,13.08
+BRA,Brazil,13.11
+PRY,Paraguay,13.15
+PRY,Paraguay,13.23
+BRA,Brazil,13.26
+JPN,Japan,13.47
+AUT,Austria,13.6
+JPN,Japan,13.79
+DOM,Dominican Republic,13.84
+JAM,Jamaica,13.95
+MLT,Malta,14.01
+MLT,Malta,14.02
+IDN,Indonesia,14.07
+CYP,Cyprus,14.14
+SGP,Singapore,14.16
+SGP,Singapore,14.16
+LTU,Lithuania,14.24
+ROU,Romania,14.27
+MYS,Malaysia,14.47
+UKR,Ukraine,14.5
+TLS,Timor-Leste,14.5
+BHS,Bahamas,14.75
+COM,Comoros,14.75
+JAM,Jamaica,14.78
+COM,Comoros,14.78
+TLS,Timor-Leste,14.84
+COM,Comoros,14.85
+MDA,Republic of Moldova,15.08
+PAN,Panama,15.08
+KAZ,Kazakhstan,15.14
+GRC,Greece,15.23
+JAM,Jamaica,15.25
+MYS,Malaysia,15.28
+PAN,Panama,15.31
+LVA,Latvia,15.34
+IDN,Indonesia,15.61
+ROU,Romania,15.64
+CZE,Czechia,15.74
+ATG,Antigua and Barbuda,15.79
+HUN,Hungary,15.84
+ITA,Italy,15.85
+PAN,Panama,15.89
+MDA,Republic of Moldova,15.95
+UKR,Ukraine,15.97
+HTI,Haiti,15.99
+TKM,Turkmenistan,16.06
+DOM,Dominican Republic,16.08
+CYP,Cyprus,16.11
+TLS,Timor-Leste,16.12
+MDG,Madagascar,16.2
+GRC,Greece,16.3
+ITA,Italy,16.34
+MDG,Madagascar,16.36
+CUB,Cuba,16.43
+GEO,Georgia,16.54
+MDG,Madagascar,16.55
+MDA,Republic of Moldova,16.55
+SVN,Slovenia,16.57
+DOM,Dominican Republic,16.59
+BHS,Bahamas,16.66
+KAZ,Kazakhstan,16.7
+ROU,Romania,16.74
+HUN,Hungary,17.04
+UKR,Ukraine,17.06
+CYP,Cyprus,17.08
+BLR,Belarus,17.09
+IDN,Indonesia,17.14
+HRV,Croatia,17.31
+CZE,Czechia,17.38
+HTI,Haiti,17.42
+TKM,Turkmenistan,17.49
+PHL,Philippines,17.51
+AZE,Azerbaijan,17.58
+HUN,Hungary,17.7
+SVN,Slovenia,17.76
+BHS,Bahamas,17.78
+LVA,Latvia,17.87
+CZE,Czechia,17.88
+SVK,Slovakia,17.92
+DMA,Dominica,18.24
+HRV,Croatia,18.34
+SVN,Slovenia,18.42
+VNM,Viet Nam,18.43
+COL,Colombia,18.59
+ISR,Israel,18.73
+LCA,Saint Lucia,18.78
+HRV,Croatia,18.81
+LAO,Lao People's Democratic Republic,18.82
+ALB,Albania,18.93
+SVK,Slovakia,19.04
+CRI,Costa Rica,19.16
+CRI,Costa Rica,19.21
+CUB,Cuba,19.25
+COL,Colombia,19.25
+CHL,Chile,19.29
+NAM,Namibia,19.34
+BLR,Belarus,19.35
+CRI,Costa Rica,19.42
+LKA,Sri Lanka,19.47
+HTI,Haiti,19.47
+ECU,Ecuador,19.53
+SVK,Slovakia,19.54
+ECU,Ecuador,19.62
+AZE,Azerbaijan,19.65
+ECU,Ecuador,19.68
+KGZ,Kyrgyzstan,19.74
+ALB,Albania,19.8
+LAO,Lao People's Democratic Republic,19.83
+BLZ,Belize,19.83
+BLZ,Belize,19.84
+COL,Colombia,19.86
+SWZ,Eswatini,19.88
+BLZ,Belize,19.97
+ISR,Israel,20.04
+DMA,Dominica,20.04
+LKA,Sri Lanka,20.06
+SWZ,Eswatini,20.12
+ISR,Israel,20.14
+BGR,Bulgaria,20.17
+SWZ,Eswatini,20.19
+POL,Poland,20.19
+MOZ,Mozambique,20.21
+PHL,Philippines,20.27
+VCT,Saint Vincent and the Grenadines,20.35
+SUR,Suriname,20.39
+ATG,Antigua and Barbuda,20.62
+LKA,Sri Lanka,20.66
+GUY,Guyana,20.69
+DMA,Dominica,20.71
+ATG,Antigua and Barbuda,20.77
+GEO,Georgia,20.78
+GRD,Grenada,20.82
+VEN,Venezuela (Bolivarian Republic of),21.06
+LAO,Lao People's Democratic Republic,21.13
+MOZ,Mozambique,21.19
+VEN,Venezuela (Bolivarian Republic of),21.19
+SOM,Somalia,21.23
+ALB,Albania,21.23
+VNM,Viet Nam,21.32
+VEN,Venezuela (Bolivarian Republic of),21.35
+MNE,Montenegro,21.36
+BLR,Belarus,21.46
+BGR,Bulgaria,21.58
+AZE,Azerbaijan,21.68
+MOZ,Mozambique,21.84
+ZAF,South Africa,21.87
+NIC,Nicaragua,22.05
+TTO,Trinidad and Tobago,22.24
+SOM,Somalia,22.25
+BWA,Botswana,22.31
+BWA,Botswana,22.33
+BWA,Botswana,22.34
+MNE,Montenegro,22.49
+SOM,Somalia,22.55
+NIC,Nicaragua,22.57
+VCT,Saint Vincent and the Grenadines,22.62
+NAM,Namibia,22.7
+GRD,Grenada,22.75
+CUB,Cuba,22.75
+GUY,Guyana,22.76
+PHL,Philippines,22.77
+POL,Poland,22.81
+UZB,Uzbekistan,22.83
+CHL,Chile,22.83
+KGZ,Kyrgyzstan,22.84
+LCA,Saint Lucia,22.9
+VCT,Saint Vincent and the Grenadines,22.94
+NIC,Nicaragua,22.96
+LCA,Saint Lucia,22.97
+VNM,Viet Nam,23.02
+MNE,Montenegro,23.08
+TTO,Trinidad and Tobago,23.11
+GRD,Grenada,23.15
+BRB,Barbados,23.24
+KHM,Cambodia,23.46
+MEX,Mexico,23.46
+MEX,Mexico,23.76
+MEX,Mexico,23.8
+POL,Poland,23.84
+KHM,Cambodia,23.95
+ZWE,Zimbabwe,24.06
+BGR,Bulgaria,24.07
+KAZ,Kazakhstan,24.08
+ZAF,South Africa,24.1
+TZA,United Republic of Tanzania,24.16
+TTO,Trinidad and Tobago,24.18
+ZWE,Zimbabwe,24.51
+BRB,Barbados,24.61
+ZWE,Zimbabwe,24.67
+ARM,Armenia,24.72
+KEN,Kenya,24.95
+BRB,Barbados,25.01
+CHL,Chile,25.12
+MWI,Malawi,25.21
+GEO,Georgia,25.35
+NAM,Namibia,25.83
+GUY,Guyana,25.94
+KHM,Cambodia,25.96
+HND,Honduras,25.99
+HND,Honduras,26.01
+KOR,Republic of Korea,26.02
+HND,Honduras,26.03
+MAR,Morocco,26.07
+MAR,Morocco,26.13
+MWI,Malawi,26.19
+MAR,Morocco,26.2
+SUR,Suriname,26.31
+LSO,Lesotho,26.31
+MWI,Malawi,26.36
+BOL,Bolivia (Plurinational State of),26.36
+TZA,United Republic of Tanzania,26.39
+SRB,Serbia,26.51
+KOR,Republic of Korea,26.59
+LSO,Lesotho,26.65
+KOR,Republic of Korea,26.66
+PER,Peru,26.67
+ZAF,South Africa,26.86
+UZB,Uzbekistan,26.95
+KGZ,Kyrgyzstan,27.03
+KEN,Kenya,27.07
+TZA,United Republic of Tanzania,27.13
+THA,Thailand,27.15
+BIH,Bosnia and Herzegovina,27.35
+BOL,Bolivia (Plurinational State of),27.36
+SRB,Serbia,27.5
+KEN,Kenya,27.77
+ZMB,Zambia,27.81
+SRB,Serbia,27.83
+THA,Thailand,28.4
+LSO,Lesotho,28.52
+ETH,Ethiopia,28.66
+BOL,Bolivia (Plurinational State of),28.78
+ETH,Ethiopia,29.19
+ZMB,Zambia,29.34
+ETH,Ethiopia,29.39
+SUR,Suriname,29.43
+SLV,El Salvador,29.47
+SLV,El Salvador,29.65
+SLV,El Salvador,29.8
+MKD,The former Yugoslav Republic of Macedonia,29.92
+ZMB,Zambia,30.04
+THA,Thailand,30.17
+SSD,South Sudan,30.42
+TJK,Tajikistan,30.43
+SSD,South Sudan,30.53
+SSD,South Sudan,30.55
+PER,Peru,30.6
+LBN,Lebanon,30.68
+GTM,Guatemala,30.95
+TUN,Tunisia,30.95
+MNG,Mongolia,30.97
+BIH,Bosnia and Herzegovina,30.98
+ERI,Eritrea,31.18
+TUN,Tunisia,31.24
+GTM,Guatemala,31.24
+GTM,Guatemala,31.65
+LBN,Lebanon,31.73
+LBN,Lebanon,31.74
+TUN,Tunisia,31.9
+UZB,Uzbekistan,32.05
+ARM,Armenia,32.12
+MMR,Myanmar,32.22
+MMR,Myanmar,32.33
+TKM,Turkmenistan,32.36
+ERI,Eritrea,32.82
+DJI,Djibouti,32.84
+MMR,Myanmar,32.91
+BEN,Benin,32.96
+DZA,Algeria,33.08
+DJI,Djibouti,33.17
+PER,Peru,33.27
+DJI,Djibouti,33.35
+ERI,Eritrea,33.43
+TJK,Tajikistan,33.54
+JOR,Jordan,33.73
+DZA,Algeria,33.78
+BIH,Bosnia and Herzegovina,33.84
+MKD,The former Yugoslav Republic of Macedonia,33.9
+JOR,Jordan,34.09
+IRN,Iran (Islamic Republic of),34.33
+IRN,Iran (Islamic Republic of),34.65
+IRN,Iran (Islamic Republic of),34.87
+BEN,Benin,34.95
+BDI,Burundi,35.29
+SDN,Sudan,35.35
+BDI,Burundi,35.5
+SDN,Sudan,35.65
+SDN,Sudan,35.77
+STP,Sao Tome and Principe,35.84
+BDI,Burundi,35.88
+STP,Sao Tome and Principe,36.13
+SYR,Syrian Arab Republic,36.14
+DZA,Algeria,36.23
+STP,Sao Tome and Principe,36.44
+AGO,Angola,36.48
+AGO,Angola,36.8
+TGO,Togo,36.83
+BEN,Benin,36.86
+TUR,Turkey,37.11
+TGO,Togo,37.28
+AGO,Angola,37.43
+SYR,Syrian Arab Republic,37.71
+TUR,Turkey,37.76
+OMN,Oman,37.84
+YEM,Yemen,37.91
+JOR,Jordan,37.92
+RWA,Rwanda,38.06
+LBR,Liberia,38.07
+RWA,Rwanda,38.08
+TGO,Togo,38.11
+RWA,Rwanda,38.17
+UGA,Uganda,38.31
+ARE,United Arab Emirates,38.31
+MKD,The former Yugoslav Republic of Macedonia,38.38
+YEM,Yemen,38.67
+MNG,Mongolia,38.7
+TUR,Turkey,38.74
+CAF,Central African Republic,38.77
+UGA,Uganda,38.9
+GNQ,Equatorial Guinea,38.95
+GNQ,Equatorial Guinea,39.02
+CAF,Central African Republic,39.03
+YEM,Yemen,39.04
+BTN,Bhutan,39.36
+OMN,Oman,39.4
+LBR,Liberia,39.5
+GNQ,Equatorial Guinea,39.58
+CAF,Central African Republic,39.64
+GAB,Gabon,39.7
+GAB,Gabon,39.87
+BTN,Bhutan,39.92
+BTN,Bhutan,40
+GAB,Gabon,40.02
+ARE,United Arab Emirates,40.42
+PRK,Democratic People's Republic of Korea,40.59
+OMN,Oman,40.7
+LBR,Liberia,41
+UGA,Uganda,41.11
+ARE,United Arab Emirates,41.17
+GHA,Ghana,41.5
+COD,Democratic Republic of the Congo,41.57
+COG,Congo,42.01
+COD,Democratic Republic of the Congo,42.29
+ARM,Armenia,43.04
+GHA,Ghana,43.15
+SLE,Sierra Leone,43.18
+PRK,Democratic People's Republic of Korea,43.36
+NGA,Nigeria,43.37
+COD,Democratic Republic of the Congo,43.51
+LBY,Libya,43.61
+SLE,Sierra Leone,43.69
+GHA,Ghana,43.86
+SYR,Syrian Arab Republic,43.9
+COG,Congo,44.06
+PRK,Democratic People's Republic of Korea,44.38
+TJK,Tajikistan,44.73
+CIV,Côte d’Ivoire,44.77
+CIV,Côte d’Ivoire,44.81
+CIV,Côte d’Ivoire,44.86
+SLE,Sierra Leone,45.05
+GIN,Guinea,45.19
+GIN,Guinea,45.22
+GIN,Guinea,45.22
+BFA,Burkina Faso,45.37
+COG,Congo,46.13
+BFA,Burkina Faso,46.56
+LBY,Libya,46.6
+BFA,Burkina Faso,46.81
+LBY,Libya,47.72
+IRQ,Iraq,48.15
+GNB,Guinea-Bissau,48.96
+CHN,China,49.34
+IRQ,Iraq,49.35
+GNB,Guinea-Bissau,49.6
+KWT,Kuwait,49.75
+SWE,Sweden,5.79
+FIN,Finland,5.81
+CAN,Canada,5.86
+GNB,Guinea-Bissau,50.24
+IRQ,Iraq,50.32
+TCD,Chad,50.96
+TCD,Chad,51.62
+NGA,Nigeria,52.63
+CHN,China,52.96
+SAU,Saudi Arabia,54.08
+GMB,Gambia,54.7
+TCD,Chad,54.81
+KWT,Kuwait,54.95
+SAU,Saudi Arabia,55.25
+MNG,Mongolia,55.34
+CMR,Cameroon,55.7
+CMR,Cameroon,55.89
+GMB,Gambia,56.04
+CMR,Cameroon,56.11
+CHN,China,56.27
+MLI,Mali,56.28
+AFG,Afghanistan,56.65
+MLI,Mali,56.78
+BHR,Bahrain,56.87
+KWT,Kuwait,56.95
+MLI,Mali,57.11
+GMB,Gambia,57.17
+BHR,Bahrain,57.7
+BHR,Bahrain,57.73
+SAU,Saudi Arabia,58.18
+PAK,Pakistan,58.44
+AFG,Afghanistan,59.05
+NGA,Nigeria,59.21
+SEN,Senegal,59.37
+CPV,Cabo Verde,59.98
+ISL,Iceland,6.25
+ISL,Iceland,6.25
+ISL,Iceland,6.25
+FIN,Finland,6.27
+AUS,Australia,6.28
+NZL,New Zealand,6.36
+SWE,Sweden,6.45
+NZL,New Zealand,6.69
+NZL,New Zealand,6.76
+NOR,Norway,6.8
+SWE,Sweden,6.81
+SEN,Senegal,60.24
+CPV,Cabo Verde,60.25
+PAK,Pakistan,60.68
+SEN,Senegal,60.85
+CPV,Cabo Verde,61.05
+EGY,Egypt,63.29
+BGD,Bangladesh,63.7
+IND,India,63.89
+PAK,Pakistan,64.06
+NER,Niger,65.89
+QAT,Qatar,67.42
+AFG,Afghanistan,68.17
+BGD,Bangladesh,68.24
+EGY,Egypt,68.74
+NER,Niger,68.86
+NER,Niger,69.34
+EGY,Egypt,69.38
+BGD,Bangladesh,69.78
+FIN,Finland,7.04
+BRN,Brunei Darussalam,7.2
+AUS,Australia,7.22
+NRU,Nauru,7.29
+NRU,Nauru,7.29
+BRN,Brunei Darussalam,7.29
+EST,Estonia,7.32
+AUS,Australia,7.37
+USA,United States of America,7.45
+NOR,Norway,7.46
+CAN,Canada,7.56
+TUV,Tuvalu,7.6
+TUV,Tuvalu,7.6
+BRN,Brunei Darussalam,7.67
+IRL,Ireland,7.71
+PLW,Palau,7.87
+PRT,Portugal,7.91
+CAN,Canada,7.91
+PLW,Palau,7.94
+MRT,Mauritania,70.52
+IND,India,71.7
+QAT,Qatar,72.33
+QAT,Qatar,73.01
+MRT,Mauritania,73.62
+MRT,Mauritania,77.29
+NPL,Nepal,77.32
+PLW,Palau,8
+COK,Cook Islands,8.06
+COK,Cook Islands,8.06
+EST,Estonia,8.16
+PRT,Portugal,8.3
+GBR,United Kingdom of Great Britain and Northern Ireland,8.31
+NOR,Norway,8.32
+NIU,Niue,8.33
+NIU,Niue,8.33
+ESP,Spain,8.41
+IRL,Ireland,8.47
+AND,Andorra,8.49
+USA,United States of America,8.51
+EST,Estonia,8.61
+NRU,Nauru,8.72
+USA,United States of America,8.76
+LUX,Luxembourg,8.85
+KNA,Saint Kitts and Nevis,8.88
+KNA,Saint Kitts and Nevis,8.89
+KNA,Saint Kitts and Nevis,8.95
+IRL,Ireland,8.97
+NPL,Nepal,80.83
+IND,India,81.07
+NPL,Nepal,87.72
+CHE,Switzerland,9.02
+PRT,Portugal,9.02
+SMR,San Marino,9.14
+SMR,San Marino,9.14
+BEL,Belgium,9.27
+AND,Andorra,9.31
+URY,Uruguay,9.33
+RUS,Russian Federation,9.33
+MUS,Mauritius,9.63
+ESP,Spain,9.63
+URY,Uruguay,9.64
+URY,Uruguay,9.66
+DNK,Denmark,9.81
+ESP,Spain,9.94
+FRA,France,9.96
+PRT,Portugal,10.05
+MHL,Marshall Islands,10.12
+MHL,Marshall Islands,10.12
+FSM,Micronesia (Federated States of),10.33
+BEL,Belgium,10.35
+FJI,Fiji,10.38
+TON,Tonga,10.47
+VUT,Vanuatu,10.48
+SLB,Solomon Islands,10.51
+FSM,Micronesia (Federated States of),10.55
+AND,Andorra,10.59
+SLB,Solomon Islands,10.63
+WSM,Samoa,10.65
+VUT,Vanuatu,10.66
+ESP,Spain,10.7
+FJI,Fiji,10.7
+TON,Tonga,10.73
+DNK,Denmark,10.74
+PNG,Papua New Guinea,10.78
+FSM,Micronesia (Federated States of),10.79
+WSM,Samoa,10.81
+PNG,Papua New Guinea,10.87
+MUS,Mauritius,10.87
+TON,Tonga,10.88
+KIR,Kiribati,10.9
+KIR,Kiribati,10.98
+MLT,Malta,10.99
+DNK,Denmark,11.02
+ESP,Spain,11.04
+FJI,Fiji,11.08
+WSM,Samoa,11.12
+KIR,Kiribati,11.19
+MDV,Maldives,11.24
+JPN,Japan,11.27
+FRA,France,11.3
+VUT,Vanuatu,11.36
+LUX,Luxembourg,11.5
+AND,Andorra,11.51
+SLB,Solomon Islands,11.52
+RUS,Russian Federation,11.61
+DEU,Germany,11.62
+GBR,United Kingdom of Great Britain and Northern Ireland,11.64
+MDV,Maldives,11.67
+LUX,Luxembourg,11.71
+MUS,Mauritius,11.72
+LTU,Lithuania,11.74
+GBR,United Kingdom of Great Britain and Northern Ireland,11.77
+CHE,Switzerland,11.89
+NLD,Netherlands,11.92
+LVA,Latvia,11.94
+ARG,Argentina,12.11
+CHE,Switzerland,12.13
+PNG,Papua New Guinea,12.13
+ITA,Italy,12.14
+AUT,Austria,12.22
+SYC,Seychelles,12.32
+ARG,Argentina,12.4
+SYC,Seychelles,12.48
+SYC,Seychelles,12.48
+BRA,Brazil,12.51
+MYS,Malaysia,12.66
+LTU,Lithuania,12.67
+MDV,Maldives,12.71
+SGP,Singapore,12.83
+PRY,Paraguay,12.99
+DEU,Germany,13
+PRY,Paraguay,13.07
+PRY,Paraguay,13.12
+GRC,Greece,13.12
+NLD,Netherlands,13.14
+NLD,Netherlands,13.2
+ARG,Argentina,13.21
+RUS,Russian Federation,13.24
+BRA,Brazil,13.27
+DEU,Germany,13.27
+JPN,Japan,13.3
+BRA,Brazil,13.4
+FRA,France,13.43
+MCO,Monaco,13.59
+MCO,Monaco,13.59
+JPN,Japan,13.63
+DOM,Dominican Republic,13.73
+LTU,Lithuania,13.84
+JAM,Jamaica,13.96
+AUT,Austria,13.98
+BEL,Belgium,14.12
+ROU,Romania,14.19
+BEL,Belgium,14.22
+FRA,France,14.3
+SGP,Singapore,14.31
+SGP,Singapore,14.31
+BHS,Bahamas,14.5
+COM,Comoros,14.51
+COM,Comoros,14.56
+LVA,Latvia,14.59
+UKR,Ukraine,14.67
+COM,Comoros,14.7
+CYP,Cyprus,14.73
+JAM,Jamaica,14.75
+AUT,Austria,14.85
+MDA,Republic of Moldova,14.89
+IDN,Indonesia,14.9
+JAM,Jamaica,15.23
+MLT,Malta,15.26
+MYS,Malaysia,15.27
+MLT,Malta,15.28
+PAN,Panama,15.34
+ROU,Romania,15.46
+PAN,Panama,15.6
+ATG,Antigua and Barbuda,15.71
+MDA,Republic of Moldova,15.77
+CZE,Czechia,15.77
+GRC,Greece,15.81
+HTI,Haiti,15.82
+TLS,Timor-Leste,15.84
+HUN,Hungary,15.95
+DOM,Dominican Republic,15.97
+KAZ,Kazakhstan,16.02
+MYS,Malaysia,16.05
+UKR,Ukraine,16.1
+TLS,Timor-Leste,16.17
+PAN,Panama,16.24
+MDA,Republic of Moldova,16.36
+DOM,Dominican Republic,16.47
+ROU,Romania,16.52
+CUB,Cuba,16.57
+BHS,Bahamas,16.58
+IDN,Indonesia,16.61
+CYP,Cyprus,16.75
+GRC,Greece,16.84
+ITA,Italy,16.89
+SVN,Slovenia,16.93
+MDG,Madagascar,16.94
+LVA,Latvia,16.97
+BLR,Belarus,17.01
+TKM,Turkmenistan,17.04
+UKR,Ukraine,17.17
+HTI,Haiti,17.19
+HUN,Hungary,17.23
+MDG,Madagascar,17.27
+CZE,Czechia,17.33
+ITA,Italy,17.39
+KAZ,Kazakhstan,17.64
+GEO,Georgia,17.66
+HRV,Croatia,17.71
+MDG,Madagascar,17.72
+CYP,Cyprus,17.75
+CZE,Czechia,17.8
+BHS,Bahamas,17.85
+TLS,Timor-Leste,17.86
+DMA,Dominica,17.89
+HUN,Hungary,17.91
+SVN,Slovenia,18.05
+IDN,Indonesia,18.23
+SVK,Slovakia,18.35
+LCA,Saint Lucia,18.38
+TKM,Turkmenistan,18.55
+AZE,Azerbaijan,18.58
+SVN,Slovenia,18.66
+PHL,Philippines,18.8
+HRV,Croatia,18.87
+COL,Colombia,19
+ECU,Ecuador,19.03
+ALB,Albania,19.08
+ECU,Ecuador,19.09
+ECU,Ecuador,19.13
+BLR,Belarus,19.25
+HRV,Croatia,19.38
+HTI,Haiti,19.39
+CUB,Cuba,19.47
+BGR,Bulgaria,19.49
+SVK,Slovakia,19.52
+CRI,Costa Rica,19.63
+SOM,Somalia,19.65
+CRI,Costa Rica,19.67
+COL,Colombia,19.68
+VCT,Saint Vincent and the Grenadines,19.82
+CRI,Costa Rica,19.83
+DMA,Dominica,19.83
+CHL,Chile,19.9
+ALB,Albania,19.91
+VNM,Viet Nam,19.93
+NAM,Namibia,20.04
+SVK,Slovakia,20.05
+ATG,Antigua and Barbuda,20.14
+ISR,Israel,20.16
+SUR,Suriname,20.16
+POL,Poland,20.31
+COL,Colombia,20.34
+GRD,Grenada,20.41
+LAO,Lao People's Democratic Republic,20.43
+ATG,Antigua and Barbuda,20.43
+KGZ,Kyrgyzstan,20.54
+DMA,Dominica,20.74
+BLZ,Belize,20.77
+BGR,Bulgaria,20.8
+AZE,Azerbaijan,20.82
+GUY,Guyana,20.98
+BLZ,Belize,21.02
+BLZ,Belize,21.05
+SWZ,Eswatini,21.06
+LKA,Sri Lanka,21.09
+MOZ,Mozambique,21.1
+SOM,Somalia,21.22
+ALB,Albania,21.35
+BLR,Belarus,21.4
+ISR,Israel,21.4
+LAO,Lao People's Democratic Republic,21.48
+VEN,Venezuela (Bolivarian Republic of),21.49
+ISR,Israel,21.5
+MNE,Montenegro,21.53
+VEN,Venezuela (Bolivarian Republic of),21.63
+SOM,Somalia,21.67
+SWZ,Eswatini,21.68
+VEN,Venezuela (Bolivarian Republic of),21.81
+PHL,Philippines,21.81
+LKA,Sri Lanka,21.84
+SWZ,Eswatini,21.85
+MOZ,Mozambique,22.08
+ZAF,South Africa,22.08
+TTO,Trinidad and Tobago,22.15
+GEO,Georgia,22.22
+GRD,Grenada,22.28
+VCT,Saint Vincent and the Grenadines,22.29
+LKA,Sri Lanka,22.57
+LCA,Saint Lucia,22.7
+VCT,Saint Vincent and the Grenadines,22.72
+LCA,Saint Lucia,22.72
+MNE,Montenegro,22.72
+MOZ,Mozambique,22.73
+GRD,Grenada,22.78
+LAO,Lao People's Democratic Republic,22.86
+AZE,Azerbaijan,22.87
+BWA,Botswana,22.93
+BRB,Barbados,22.94
+CUB,Cuba,22.94
+GUY,Guyana,22.95
+TTO,Trinidad and Tobago,23
+POL,Poland,23.05
+BGR,Bulgaria,23.14
+VNM,Viet Nam,23.23
+MNE,Montenegro,23.31
+NIC,Nicaragua,23.45
+CHL,Chile,23.5
+BWA,Botswana,23.58
+ZWE,Zimbabwe,23.64
+BWA,Botswana,23.75
+TZA,United Republic of Tanzania,23.76
+KGZ,Kyrgyzstan,23.82
+KEN,Kenya,23.89
+NIC,Nicaragua,23.97
+NAM,Namibia,24
+TTO,Trinidad and Tobago,24.07
+ZAF,South Africa,24.09
+UZB,Uzbekistan,24.11
+POL,Poland,24.13
+NIC,Nicaragua,24.36
+BRB,Barbados,24.51
+LSO,Lesotho,24.51
+MEX,Mexico,24.52
+PHL,Philippines,24.52
+LSO,Lesotho,24.61
+ZWE,Zimbabwe,24.64
+MWI,Malawi,24.65
+MEX,Mexico,24.8
+MEX,Mexico,24.82
+BRB,Barbados,24.92
+ZWE,Zimbabwe,25.12
+VNM,Viet Nam,25.12
+BOL,Bolivia (Plurinational State of),25.21
+LSO,Lesotho,25.3
+KAZ,Kazakhstan,25.32
+MAR,Morocco,25.49
+KHM,Cambodia,25.52
+PER,Peru,25.71
+KOR,Republic of Korea,25.84
+MWI,Malawi,25.87
+MAR,Morocco,25.87
+CHL,Chile,25.88
+SRB,Serbia,25.93
+KEN,Kenya,25.99
+KHM,Cambodia,26.04
+MWI,Malawi,26.06
+BOL,Bolivia (Plurinational State of),26.23
+MAR,Morocco,26.23
+ARM,Armenia,26.24
+SUR,Suriname,26.38
+GUY,Guyana,26.51
+KEN,Kenya,26.66
+KOR,Republic of Korea,26.74
+ZAF,South Africa,26.79
+KOR,Republic of Korea,26.85
+SRB,Serbia,26.88
+GEO,Georgia,27.03
+TZA,United Republic of Tanzania,27.13
+SRB,Serbia,27.2
+BIH,Bosnia and Herzegovina,27.43
+NAM,Namibia,27.71
+BOL,Bolivia (Plurinational State of),27.76
+KGZ,Kyrgyzstan,28
+TZA,United Republic of Tanzania,28.27
+KHM,Cambodia,28.35
+UZB,Uzbekistan,28.48
+HND,Honduras,28.51
+HND,Honduras,28.53
+HND,Honduras,28.55
+MKD,The former Yugoslav Republic of Macedonia,28.68
+ETH,Ethiopia,28.88
+ZMB,Zambia,29.35
+SUR,Suriname,29.37
+PER,Peru,29.42
+THA,Thailand,29.53
+ETH,Ethiopia,29.57
+ETH,Ethiopia,29.85
+DZA,Algeria,30.26
+TUN,Tunisia,30.41
+LBN,Lebanon,30.8
+ZMB,Zambia,30.82
+THA,Thailand,30.93
+BIH,Bosnia and Herzegovina,30.99
+TUN,Tunisia,31.06
+DZA,Algeria,31.09
+ZMB,Zambia,31.51
+MNG,Mongolia,31.81
+TJK,Tajikistan,31.82
+LBN,Lebanon,31.82
+LBN,Lebanon,31.83
+SLV,El Salvador,32.02
+PER,Peru,32.03
+SLV,El Salvador,32.12
+SLV,El Salvador,32.24
+MKD,The former Yugoslav Republic of Macedonia,32.61
+TUN,Tunisia,32.71
+SSD,South Sudan,32.91
+THA,Thailand,33
+SSD,South Sudan,33.08
+SSD,South Sudan,33.1
+GTM,Guatemala,33.55
+DJI,Djibouti,33.79
+GTM,Guatemala,33.81
+BIH,Bosnia and Herzegovina,33.82
+TKM,Turkmenistan,33.86
+DJI,Djibouti,33.87
+DJI,Djibouti,33.88
+IRN,Iran (Islamic Republic of),33.88
+UZB,Uzbekistan,33.99
+ARM,Armenia,34.03
+GTM,Guatemala,34.15
+DZA,Algeria,34.47
+IRN,Iran (Islamic Republic of),34.55
+JOR,Jordan,34.95
+TJK,Tajikistan,35.03
+ERI,Eritrea,35.04
+IRN,Iran (Islamic Republic of),35.07
+MMR,Myanmar,35.42
+JOR,Jordan,35.44
+MMR,Myanmar,35.46
+TUR,Turkey,35.46
+MMR,Myanmar,35.68
+BEN,Benin,35.94
+SYR,Syrian Arab Republic,35.99
+TUR,Turkey,36.07
+STP,Sao Tome and Principe,36.48
+STP,Sao Tome and Principe,36.54
+BTN,Bhutan,36.55
+BDI,Burundi,36.67
+GNQ,Equatorial Guinea,36.75
+STP,Sao Tome and Principe,36.85
+BDI,Burundi,36.91
+MKD,The former Yugoslav Republic of Macedonia,36.91
+GNQ,Equatorial Guinea,36.93
+ERI,Eritrea,37.06
+TUR,Turkey,37.06
+BTN,Bhutan,37.19
+BTN,Bhutan,37.31
+GAB,Gabon,37.32
+BDI,Burundi,37.39
+SYR,Syrian Arab Republic,37.73
+ERI,Eritrea,37.87
+BEN,Benin,37.91
+UGA,Uganda,38.13
+GNQ,Equatorial Guinea,38.17
+GAB,Gabon,38.19
+RWA,Rwanda,38.33
+RWA,Rwanda,38.58
+UGA,Uganda,38.61
+RWA,Rwanda,38.67
+GAB,Gabon,38.75
+AGO,Angola,39.19
+AGO,Angola,39.63
+BEN,Benin,39.65
+JOR,Jordan,39.67
+TGO,Togo,39.93
+MNG,Mongolia,40.14
+UGA,Uganda,40.49
+TGO,Togo,40.69
+SDN,Sudan,40.76
+AGO,Angola,40.77
+SDN,Sudan,40.85
+SDN,Sudan,40.88
+OMN,Oman,40.9
+TGO,Togo,41.91
+COG,Congo,41.97
+CAF,Central African Republic,42.06
+PRK,Democratic People's Republic of Korea,42.09
+CAF,Central African Republic,42.13
+CAF,Central African Republic,42.14
+YEM,Yemen,42.68
+ARE,United Arab Emirates,42.77
+COD,Democratic Republic of the Congo,43.02
+OMN,Oman,43.06
+LBR,Liberia,43.23
+COD,Democratic Republic of the Congo,43.56
+LBR,Liberia,43.78
+NGA,Nigeria,43.91
+COG,Congo,43.98
+YEM,Yemen,44
+LBR,Liberia,44.37
+BFA,Burkina Faso,44.4
+COD,Democratic Republic of the Congo,44.49
+YEM,Yemen,44.67
+OMN,Oman,44.81
+PRK,Democratic People's Republic of Korea,45.09
+LBY,Libya,45.13
+GHA,Ghana,45.18
+BFA,Burkina Faso,45.24
+SLE,Sierra Leone,45.38
+ARE,United Arab Emirates,45.38
+BFA,Burkina Faso,45.41
+GIN,Guinea,45.59
+GIN,Guinea,45.92
+ARM,Armenia,45.93
+COG,Congo,45.96
+SLE,Sierra Leone,45.99
+PRK,Democratic People's Republic of Korea,46.16
+ARE,United Arab Emirates,46.19
+SYR,Syrian Arab Republic,46.24
+GIN,Guinea,46.58
+TJK,Tajikistan,46.82
+SLE,Sierra Leone,47.4
+GHA,Ghana,48.12
+CIV,Côte d’Ivoire,48.14
+LBY,Libya,48.19
+GNB,Guinea-Bissau,48.65
+LBY,Libya,49.27
+GNB,Guinea-Bissau,49.28
+CIV,Côte d’Ivoire,49.46
+GHA,Ghana,49.48
+GNB,Guinea-Bissau,49.96
+SWE,Sweden,5.51
+FIN,Finland,5.82
+CAN,Canada,5.93
+CHN,China,50.74
+CIV,Côte d’Ivoire,50.82
+GMB,Gambia,52.41
+AFG,Afghanistan,52.66
+NGA,Nigeria,52.93
+MLI,Mali,53.55
+GMB,Gambia,53.57
+PAK,Pakistan,53.84
+MLI,Mali,54.02
+MLI,Mali,54.33
+GMB,Gambia,54.38
+CHN,China,54.84
+AFG,Afghanistan,54.89
+SEN,Senegal,55.4
+SEN,Senegal,56
+PAK,Pakistan,56.07
+SEN,Senegal,56.53
+TCD,Chad,56.6
+TCD,Chad,57.1
+BGD,Bangladesh,57.19
+CMR,Cameroon,57.32
+CMR,Cameroon,57.72
+IRQ,Iraq,57.75
+CMR,Cameroon,58.18
+MNG,Mongolia,58.27
+CHN,China,58.64
+IND,India,58.83
+TCD,Chad,59.34
+PAK,Pakistan,59.37
+NGA,Nigeria,59.39
+IRQ,Iraq,59.4
+SWE,Sweden,6.1
+FIN,Finland,6.27
+AUS,Australia,6.39
+SWE,Sweden,6.42
+NZL,New Zealand,6.51
+ISL,Iceland,6.76
+ISL,Iceland,6.76
+ISL,Iceland,6.76
+EST,Estonia,6.81
+NZL,New Zealand,6.84
+NZL,New Zealand,6.92
+NOR,Norway,6.96
+CPV,Cabo Verde,60.62
+IRQ,Iraq,60.69
+CPV,Cabo Verde,60.98
+BGD,Bangladesh,61.1
+KWT,Kuwait,61.74
+CPV,Cabo Verde,61.79
+BGD,Bangladesh,62.39
+SAU,Saudi Arabia,62.95
+AFG,Afghanistan,62.99
+SAU,Saudi Arabia,64.67
+MRT,Mauritania,65.43
+EGY,Egypt,65.54
+IND,India,65.93
+BHR,Bahrain,66.54
+BHR,Bahrain,66.56
+BHR,Bahrain,66.58
+NER,Niger,67.08
+KWT,Kuwait,67.82
+MRT,Mauritania,68.62
+SAU,Saudi Arabia,68.96
+NRU,Nauru,7.03
+NRU,Nauru,7.03
+FIN,Finland,7.03
+TUV,Tuvalu,7.2
+TUV,Tuvalu,7.2
+BRN,Brunei Darussalam,7.26
+BRN,Brunei Darussalam,7.32
+AUS,Australia,7.35
+PLW,Palau,7.37
+PLW,Palau,7.46
+PLW,Palau,7.5
+AUS,Australia,7.5
+USA,United States of America,7.5
+COK,Cook Islands,7.57
+COK,Cook Islands,7.57
+EST,Estonia,7.57
+CAN,Canada,7.63
+NOR,Norway,7.65
+BRN,Brunei Darussalam,7.7
+NIU,Niue,7.91
+NIU,Niue,7.91
+EST,Estonia,7.96
+CAN,Canada,7.97
+KWT,Kuwait,70.13
+NER,Niger,70.28
+NER,Niger,70.81
+EGY,Egypt,71.11
+NPL,Nepal,71.21
+EGY,Egypt,71.82
+MRT,Mauritania,72.88
+NPL,Nepal,73.94
+IND,India,74.19
+NPL,Nepal,79.85
+NRU,Nauru,8.33
+KNA,Saint Kitts and Nevis,8.45
+KNA,Saint Kitts and Nevis,8.5
+IRL,Ireland,8.53
+KNA,Saint Kitts and Nevis,8.56
+NOR,Norway,8.56
+USA,United States of America,8.58
+SMR,San Marino,8.66
+SMR,San Marino,8.66
+PRT,Portugal,8.73
+USA,United States of America,8.83
+QAT,Qatar,80.51
+QAT,Qatar,87.68
+QAT,Qatar,88.81
+PRT,Portugal,9.2
+GBR,United Kingdom of Great Britain and Northern Ireland,9.22
+ESP,Spain,9.32
+IRL,Ireland,9.35
+URY,Uruguay,9.6
+RUS,Russian Federation,9.6
+AND,Andorra,9.62
+MUS,Mauritius,9.77
+CHE,Switzerland,9.77
+LUX,Luxembourg,9.79
+URY,Uruguay,9.86
+URY,Uruguay,9.88
+IRL,Ireland,9.88
+DNK,Denmark,9.95
+MHL,Marshall Islands,10.13
+MHL,Marshall Islands,10.13
+CHE,Switzerland,10.24
+DNK,Denmark,10.31
+WSM,Samoa,10.32
+FSM,Micronesia (Federated States of),10.35
+MUS,Mauritius,10.36
+FJI,Fiji,10.43
+FSM,Micronesia (Federated States of),10.44
+VUT,Vanuatu,10.49
+WSM,Samoa,10.5
+TON,Tonga,10.51
+FSM,Micronesia (Federated States of),10.53
+SLB,Solomon Islands,10.54
+BEL,Belgium,10.64
+SLB,Solomon Islands,10.66
+VUT,Vanuatu,10.69
+TON,Tonga,10.74
+WSM,Samoa,10.75
+KIR,Kiribati,10.81
+FJI,Fiji,10.85
+KIR,Kiribati,10.89
+JPN,Japan,10.9
+TON,Tonga,10.93
+AND,Andorra,11
+ESP,Spain,11
+DNK,Denmark,11.08
+ARG,Argentina,11.17
+MUS,Mauritius,11.2
+RUS,Russian Federation,11.21
+MLT,Malta,11.24
+FJI,Fiji,11.24
+KIR,Kiribati,11.26
+PNG,Papua New Guinea,11.26
+PNG,Papua New Guinea,11.34
+DNK,Denmark,11.36
+ESP,Spain,11.38
+VUT,Vanuatu,11.39
+ARG,Argentina,11.42
+FRA,France,11.46
+MDV,Maldives,11.46
+LUX,Luxembourg,11.67
+LTU,Lithuania,11.68
+MDV,Maldives,11.79
+LVA,Latvia,11.8
+GBR,United Kingdom of Great Britain and Northern Ireland,11.83
+LUX,Luxembourg,11.87
+AND,Andorra,11.92
+DEU,Germany,11.94
+SLB,Solomon Islands,11.94
+GBR,United Kingdom of Great Britain and Northern Ireland,11.96
+ARG,Argentina,12.14
+CHE,Switzerland,12.38
+AUT,Austria,12.47
+PNG,Papua New Guinea,12.48
+NLD,Netherlands,12.54
+LTU,Lithuania,12.6
+CHE,Switzerland,12.64
+MDV,Maldives,12.65
+ITA,Italy,12.68
+JPN,Japan,12.76
+RUS,Russian Federation,12.85
+JPN,Japan,13.06
+BRA,Brazil,13.32
+DEU,Germany,13.38
+SYC,Seychelles,13.58
+SYC,Seychelles,13.63
+DEU,Germany,13.66
+FRA,France,13.68
+LTU,Lithuania,13.75
+DOM,Dominican Republic,13.77
+SYC,Seychelles,13.8
+NLD,Netherlands,13.85
+NLD,Netherlands,13.91
+GRC,Greece,13.92
+MYS,Malaysia,13.99
+MCO,Monaco,14.03
+MCO,Monaco,14.03
+SGP,Singapore,14.07
+BRA,Brazil,14.1
+JAM,Jamaica,14.12
+BRA,Brazil,14.24
+PRY,Paraguay,14.25
+AUT,Austria,14.26
+PRY,Paraguay,14.31
+PRY,Paraguay,14.34
+LVA,Latvia,14.49
+BHS,Bahamas,14.51
+UKR,Ukraine,14.52
+FRA,France,14.58
+COM,Comoros,14.64
+COM,Comoros,14.65
+COM,Comoros,14.67
+BEL,Belgium,14.73
+BEL,Belgium,14.84
+JAM,Jamaica,14.88
+ROU,Romania,14.88
+MDA,Republic of Moldova,14.98
+PAN,Panama,15.09
+AUT,Austria,15.16
+MDG,Madagascar,15.21
+MDG,Madagascar,15.28
+PAN,Panama,15.31
+JAM,Jamaica,15.36
+MDG,Madagascar,15.37
+SGP,Singapore,15.45
+SGP,Singapore,15.45
+IDN,Indonesia,15.51
+CYP,Cyprus,15.52
+ATG,Antigua and Barbuda,15.53
+MLT,Malta,15.59
+MLT,Malta,15.6
+HTI,Haiti,15.82
+MDA,Republic of Moldova,15.87
+UKR,Ukraine,15.9
+PAN,Panama,15.93
+DOM,Dominican Republic,16.02
+CZE,Czechia,16.06
+BHS,Bahamas,16.08
+ROU,Romania,16.25
+TLS,Timor-Leste,16.25
+MYS,Malaysia,16.38
+HUN,Hungary,16.43
+MDA,Republic of Moldova,16.54
+DOM,Dominican Republic,16.54
+CUB,Cuba,16.62
+TLS,Timor-Leste,16.68
+KAZ,Kazakhstan,16.76
+IDN,Indonesia,16.83
+LVA,Latvia,16.83
+BLR,Belarus,16.88
+GRC,Greece,16.92
+UKR,Ukraine,16.95
+SVN,Slovenia,16.95
+MYS,Malaysia,17.08
+HTI,Haiti,17.31
+BHS,Bahamas,17.35
+ROU,Romania,17.43
+ITA,Italy,17.6
+HUN,Hungary,17.61
+CYP,Cyprus,17.64
+CZE,Czechia,17.75
+GRC,Greece,18.03
+DMA,Dominica,18.03
+HRV,Croatia,18.05
+SVN,Slovenia,18.06
+TKM,Turkmenistan,18.07
+ITA,Italy,18.13
+TLS,Timor-Leste,18.16
+IDN,Indonesia,18.18
+HUN,Hungary,18.24
+CZE,Czechia,18.24
+KAZ,Kazakhstan,18.43
+CHL,Chile,18.55
+SVK,Slovakia,18.58
+SVN,Slovenia,18.65
+CYP,Cyprus,18.68
+LCA,Saint Lucia,18.78
+COL,Colombia,18.82
+GEO,Georgia,18.99
+BLR,Belarus,19.05
+PHL,Philippines,19.06
+NAM,Namibia,19.12
+HRV,Croatia,19.16
+HTI,Haiti,19.23
+CUB,Cuba,19.38
+CRI,Costa Rica,19.41
+VNM,Viet Nam,19.44
+COL,Colombia,19.46
+CRI,Costa Rica,19.46
+CRI,Costa Rica,19.63
+HRV,Croatia,19.63
+TKM,Turkmenistan,19.66
+LAO,Lao People's Democratic Republic,19.67
+VCT,Saint Vincent and the Grenadines,19.68
+AZE,Azerbaijan,19.77
+SVK,Slovakia,19.78
+SWZ,Eswatini,19.89
+ALB,Albania,19.9
+ECU,Ecuador,19.92
+DMA,Dominica,20.05
+ECU,Ecuador,20.07
+COL,Colombia,20.09
+ECU,Ecuador,20.17
+SWZ,Eswatini,20.26
+GRD,Grenada,20.3
+BLZ,Belize,20.31
+SVK,Slovakia,20.32
+SWZ,Eswatini,20.37
+ATG,Antigua and Barbuda,20.37
+SUR,Suriname,20.39
+BLZ,Belize,20.44
+ATG,Antigua and Barbuda,20.44
+BLZ,Belize,20.46
+LAO,Lao People's Democratic Republic,20.66
+DMA,Dominica,20.73
+ZAF,South Africa,20.77
+ISR,Israel,20.77
+ALB,Albania,20.82
+LKA,Sri Lanka,20.87
+GUY,Guyana,20.87
+BGR,Bulgaria,20.97
+MOZ,Mozambique,21.1
+BLR,Belarus,21.21
+POL,Poland,21.45
+VEN,Venezuela (Bolivarian Republic of),21.46
+TTO,Trinidad and Tobago,21.6
+VEN,Venezuela (Bolivarian Republic of),21.61
+LKA,Sri Lanka,21.63
+KGZ,Kyrgyzstan,21.75
+VEN,Venezuela (Bolivarian Republic of),21.8
+CHL,Chile,21.88
+PHL,Philippines,21.89
+ISR,Israel,21.94
+LAO,Lao People's Democratic Republic,21.95
+ISR,Israel,22.01
+AZE,Azerbaijan,22.17
+MOZ,Mozambique,22.21
+GRD,Grenada,22.27
+VCT,Saint Vincent and the Grenadines,22.33
+BGR,Bulgaria,22.35
+ALB,Albania,22.36
+SOM,Somalia,22.4
+LKA,Sri Lanka,22.4
+TTO,Trinidad and Tobago,22.49
+VNM,Viet Nam,22.57
+GRD,Grenada,22.6
+NAM,Namibia,22.62
+GUY,Guyana,22.66
+VCT,Saint Vincent and the Grenadines,22.68
+LSO,Lesotho,22.72
+LCA,Saint Lucia,22.75
+LSO,Lesotho,22.83
+LCA,Saint Lucia,22.85
+ZAF,South Africa,22.91
+MAR,Morocco,22.93
+MNE,Montenegro,22.93
+BRB,Barbados,22.96
+CUB,Cuba,22.98
+MOZ,Mozambique,22.98
+MAR,Morocco,23.03
+NIC,Nicaragua,23.13
+MAR,Morocco,23.17
+SOM,Somalia,23.32
+LSO,Lesotho,23.51
+SOM,Somalia,23.55
+TTO,Trinidad and Tobago,23.57
+NIC,Nicaragua,23.62
+BWA,Botswana,23.65
+BWA,Botswana,23.68
+GEO,Georgia,23.7
+BWA,Botswana,23.8
+MEX,Mexico,23.8
+NIC,Nicaragua,23.97
+MEX,Mexico,24.08
+CHL,Chile,24.09
+MEX,Mexico,24.11
+MNE,Montenegro,24.27
+KOR,Republic of Korea,24.31
+POL,Poland,24.33
+AZE,Azerbaijan,24.38
+KEN,Kenya,24.4
+VNM,Viet Nam,24.51
+TZA,United Republic of Tanzania,24.53
+BRB,Barbados,24.55
+ZWE,Zimbabwe,24.62
+PHL,Philippines,24.63
+BGR,Bulgaria,24.77
+MNE,Montenegro,24.94
+KOR,Republic of Korea,24.94
+BRB,Barbados,24.99
+KOR,Republic of Korea,25.03
+ZWE,Zimbabwe,25.22
+KGZ,Kyrgyzstan,25.29
+KHM,Cambodia,25.3
+BOL,Bolivia (Plurinational State of),25.35
+POL,Poland,25.48
+ZWE,Zimbabwe,25.52
+UZB,Uzbekistan,25.59
+GUY,Guyana,25.78
+KHM,Cambodia,25.83
+NAM,Namibia,25.85
+ZAF,South Africa,26.07
+BOL,Bolivia (Plurinational State of),26.29
+PER,Peru,26.3
+SUR,Suriname,26.41
+KAZ,Kazakhstan,26.64
+KEN,Kenya,26.8
+TUN,Tunisia,26.99
+TZA,United Republic of Tanzania,27.02
+TUN,Tunisia,27.33
+MWI,Malawi,27.46
+HND,Honduras,27.46
+HND,Honduras,27.51
+HND,Honduras,27.54
+KEN,Kenya,27.55
+BOL,Bolivia (Plurinational State of),27.6
+SRB,Serbia,27.65
+TZA,United Republic of Tanzania,27.83
+TUN,Tunisia,28.09
+ARM,Armenia,28.29
+KHM,Cambodia,28.32
+THA,Thailand,28.52
+MWI,Malawi,28.55
+BIH,Bosnia and Herzegovina,28.65
+SRB,Serbia,28.67
+MWI,Malawi,28.76
+GEO,Georgia,28.78
+SRB,Serbia,29.02
+SUR,Suriname,29.28
+ZMB,Zambia,29.56
+LBN,Lebanon,29.6
+ETH,Ethiopia,29.68
+DZA,Algeria,29.69
+KGZ,Kyrgyzstan,29.73
+THA,Thailand,29.88
+PER,Peru,30.01
+DZA,Algeria,30.21
+UZB,Uzbekistan,30.27
+ETH,Ethiopia,30.32
+LBN,Lebanon,30.32
+LBN,Lebanon,30.33
+STP,Sao Tome and Principe,30.39
+STP,Sao Tome and Principe,30.57
+ETH,Ethiopia,30.57
+ZMB,Zambia,30.65
+STP,Sao Tome and Principe,30.78
+MKD,The former Yugoslav Republic of Macedonia,30.79
+SLV,El Salvador,30.88
+SLV,El Salvador,30.91
+SLV,El Salvador,30.97
+ZMB,Zambia,31.21
+THA,Thailand,31.98
+DZA,Algeria,32.05
+GTM,Guatemala,32.23
+GTM,Guatemala,32.47
+JOR,Jordan,32.47
+BIH,Bosnia and Herzegovina,32.49
+PER,Peru,32.56
+MMR,Myanmar,32.73
+GTM,Guatemala,32.8
+MMR,Myanmar,32.86
+JOR,Jordan,33.01
+MNG,Mongolia,33.08
+ERI,Eritrea,33.27
+SSD,South Sudan,33.29
+MMR,Myanmar,33.45
+DJI,Djibouti,33.47
+SSD,South Sudan,33.52
+SSD,South Sudan,33.55
+DJI,Djibouti,33.56
+DJI,Djibouti,33.56
+TJK,Tajikistan,34.02
+BEN,Benin,34.18
+IRN,Iran (Islamic Republic of),34.34
+IRN,Iran (Islamic Republic of),34.72
+SYR,Syrian Arab Republic,34.81
+BTN,Bhutan,34.9
+ERI,Eritrea,34.93
+AGO,Angola,35
+IRN,Iran (Islamic Republic of),35.01
+MKD,The former Yugoslav Republic of Macedonia,35.1
+BIH,Bosnia and Herzegovina,35.45
+ERI,Eritrea,35.55
+BTN,Bhutan,35.66
+AGO,Angola,35.69
+BTN,Bhutan,35.79
+TUR,Turkey,35.9
+BDI,Burundi,35.96
+AGO,Angola,36.01
+TKM,Turkmenistan,36.02
+BEN,Benin,36.05
+BDI,Burundi,36.11
+UZB,Uzbekistan,36.15
+TUR,Turkey,36.29
+GAB,Gabon,36.45
+SYR,Syrian Arab Republic,36.52
+BDI,Burundi,36.53
+ARM,Armenia,36.63
+TUR,Turkey,36.93
+GAB,Gabon,37.09
+TJK,Tajikistan,37.37
+GAB,Gabon,37.55
+LBY,Libya,37.63
+BEN,Benin,37.71
+GNQ,Equatorial Guinea,38.31
+GNQ,Equatorial Guinea,38.4
+TGO,Togo,38.48
+RWA,Rwanda,38.63
+PRK,Democratic People's Republic of Korea,38.74
+RWA,Rwanda,38.92
+RWA,Rwanda,39.01
+GNQ,Equatorial Guinea,39.06
+JOR,Jordan,39.08
+TGO,Togo,39.2
+UGA,Uganda,39.48
+MKD,The former Yugoslav Republic of Macedonia,39.99
+UGA,Uganda,40.03
+SDN,Sudan,40.25
+SDN,Sudan,40.29
+SDN,Sudan,40.39
+LBY,Libya,40.39
+TGO,Togo,40.59
+COG,Congo,40.63
+CAF,Central African Republic,41.3
+COD,Democratic Republic of the Congo,41.37
+PRK,Democratic People's Republic of Korea,41.44
+CAF,Central African Republic,41.46
+CAF,Central African Republic,41.52
+LBY,Libya,41.56
+OMN,Oman,41.6
+COG,Congo,41.7
+MNG,Mongolia,41.7
+ARE,United Arab Emirates,41.81
+COD,Democratic Republic of the Congo,41.98
+UGA,Uganda,42.1
+PRK,Democratic People's Republic of Korea,42.4
+COG,Congo,42.84
+COD,Democratic Republic of the Congo,43.01
+YEM,Yemen,43.33
+OMN,Oman,43.43
+NGA,Nigeria,43.73
+LBR,Liberia,44.05
+SYR,Syrian Arab Republic,44.08
+GHA,Ghana,44.26
+ARE,United Arab Emirates,44.35
+LBR,Liberia,44.5
+YEM,Yemen,44.61
+OMN,Oman,44.86
+LBR,Liberia,44.98
+ARE,United Arab Emirates,45.23
+YEM,Yemen,45.3
+GIN,Guinea,46.14
+SLE,Sierra Leone,46.47
+GHA,Ghana,46.58
+CIV,Côte d’Ivoire,46.61
+GIN,Guinea,46.78
+SLE,Sierra Leone,47.35
+CHN,China,47.54
+GHA,Ghana,47.59
+GNB,Guinea-Bissau,47.65
+CIV,Côte d’Ivoire,47.66
+GNB,Guinea-Bissau,48.16
+GIN,Guinea,48.2
+BFA,Burkina Faso,48.27
+GNB,Guinea-Bissau,48.78
+CIV,Côte d’Ivoire,48.82
+SLE,Sierra Leone,49.03
+BFA,Burkina Faso,49.53
+ARM,Armenia,49.53
+TJK,Tajikistan,49.71
+BFA,Burkina Faso,49.81
+SWE,Sweden,5.72
+CHN,China,50.64
+AFG,Afghanistan,52.37
+PAK,Pakistan,52.46
+GMB,Gambia,53.27
+CHN,China,53.53
+NGA,Nigeria,54.09
+PAK,Pakistan,54.37
+GMB,Gambia,54.49
+AFG,Afghanistan,54.67
+GMB,Gambia,55.21
+IND,India,56.17
+IRQ,Iraq,56.49
+KWT,Kuwait,56.57
+SEN,Senegal,56.59
+SEN,Senegal,56.92
+BGD,Bangladesh,56.99
+SEN,Senegal,57.21
+PAK,Pakistan,57.33
+TCD,Chad,57.68
+CMR,Cameroon,57.98
+TCD,Chad,58.46
+IRQ,Iraq,58.65
+MLI,Mali,58.84
+CMR,Cameroon,58.97
+MLI,Mali,59.39
+MLI,Mali,59.77
+CMR,Cameroon,59.94
+FIN,Finland,6.19
+CAN,Canada,6.27
+SWE,Sweden,6.3
+NZL,New Zealand,6.53
+SWE,Sweden,6.61
+AUS,Australia,6.63
+FIN,Finland,6.66
+EST,Estonia,6.78
+NZL,New Zealand,6.87
+ISL,Iceland,6.91
+ISL,Iceland,6.91
+ISL,Iceland,6.91
+NZL,New Zealand,6.95
+IRQ,Iraq,60.41
+BGD,Bangladesh,60.54
+EGY,Egypt,60.59
+BHR,Bahrain,61.46
+MNG,Mongolia,61.48
+BGD,Bangladesh,61.7
+SAU,Saudi Arabia,62.03
+NGA,Nigeria,62.09
+TCD,Chad,62.11
+BHR,Bahrain,62.6
+BHR,Bahrain,62.61
+IND,India,62.68
+KWT,Kuwait,62.92
+SAU,Saudi Arabia,63.34
+AFG,Afghanistan,63.35
+CPV,Cabo Verde,64.2
+CPV,Cabo Verde,64.29
+CPV,Cabo Verde,64.67
+EGY,Egypt,65.27
+KWT,Kuwait,65.39
+EGY,Egypt,65.86
+SAU,Saudi Arabia,66.78
+NPL,Nepal,67.41
+NPL,Nepal,69.52
+MRT,Mauritania,69.54
+NRU,Nauru,7.13
+NRU,Nauru,7.13
+NOR,Norway,7.22
+TUV,Tuvalu,7.42
+TUV,Tuvalu,7.42
+FIN,Finland,7.46
+PLW,Palau,7.49
+EST,Estonia,7.54
+AUS,Australia,7.6
+PLW,Palau,7.64
+PLW,Palau,7.7
+AUS,Australia,7.76
+COK,Cook Islands,7.78
+COK,Cook Islands,7.78
+USA,United States of America,7.8
+BRN,Brunei Darussalam,7.85
+BRN,Brunei Darussalam,7.93
+EST,Estonia,7.94
+NOR,Norway,7.94
+IND,India,70.18
+MRT,Mauritania,71.57
+QAT,Qatar,73.49
+MRT,Mauritania,73.66
+NPL,Nepal,74.53
+NER,Niger,75.78
+NER,Niger,78.54
+NER,Niger,79.04
+NIU,Niue,8.01
+NIU,Niue,8.01
+CAN,Canada,8.13
+BRN,Brunei Darussalam,8.33
+CAN,Canada,8.51
+NRU,Nauru,8.54
+KNA,Saint Kitts and Nevis,8.61
+IRL,Ireland,8.61
+KNA,Saint Kitts and Nevis,8.64
+KNA,Saint Kitts and Nevis,8.69
+PRT,Portugal,8.71
+SMR,San Marino,8.89
+SMR,San Marino,8.89
+NOR,Norway,8.89
+URY,Uruguay,8.92
+USA,United States of America,8.94
+QAT,Qatar,81.72
+QAT,Qatar,82.66
+PRT,Portugal,9.14
+URY,Uruguay,9.17
+URY,Uruguay,9.19
+USA,United States of America,9.2
+RUS,Russian Federation,9.27
+GBR,United Kingdom of Great Britain and Northern Ireland,9.4
+MUS,Mauritius,9.41
+IRL,Ireland,9.44
+ESP,Spain,9.59
+LUX,Luxembourg,9.94
+PRT,Portugal,9.95
+AND,Andorra,9.96
+IRL,Ireland,9.99
+MHL,Marshall Islands,10.09
+MHL,Marshall Islands,10.09
+PRT,Portugal,10.19
+NOR,Norway,10.21
+FSM,Micronesia (Federated States of),10.28
+TON,Tonga,10.32
+FJI,Fiji,10.37
+VUT,Vanuatu,10.38
+FSM,Micronesia (Federated States of),10.41
+GBR,United Kingdom of Great Britain and Northern Ireland,10.44
+SLB,Solomon Islands,10.45
+WSM,Samoa,10.46
+IRL,Ireland,10.46
+TON,Tonga,10.48
+MUS,Mauritius,10.52
+SLB,Solomon Islands,10.54
+ESP,Spain,10.55
+PNG,Papua New Guinea,10.55
+VUT,Vanuatu,10.58
+FSM,Micronesia (Federated States of),10.61
+WSM,Samoa,10.62
+PNG,Papua New Guinea,10.65
+JPN,Japan,10.76
+WSM,Samoa,10.77
+KIR,Kiribati,10.77
+MDV,Maldives,10.79
+FJI,Fiji,10.81
+KIR,Kiribati,10.85
+TON,Tonga,10.89
+AND,Andorra,10.99
+IRL,Ireland,11.08
+KIR,Kiribati,11.09
+LUX,Luxembourg,11.11
+FJI,Fiji,11.14
+PRT,Portugal,11.15
+CHE,Switzerland,11.22
+MDV,Maldives,11.24
+VUT,Vanuatu,11.29
+RUS,Russian Federation,11.33
+ARG,Argentina,11.35
+SLB,Solomon Islands,11.35
+ARG,Argentina,11.64
+BEL,Belgium,11.75
+LTU,Lithuania,11.91
+MYS,Malaysia,11.94
+PNG,Papua New Guinea,11.98
+DNK,Denmark,12
+SGP,Singapore,12.02
+LVA,Latvia,12.03
+ESP,Spain,12.11
+MDV,Maldives,12.16
+AND,Andorra,12.18
+MLT,Malta,12.38
+ARG,Argentina,12.44
+ESP,Spain,12.53
+JPN,Japan,12.58
+FRA,France,12.71
+LTU,Lithuania,12.85
+JPN,Japan,12.89
+RUS,Russian Federation,12.94
+DNK,Denmark,12.96
+LUX,Luxembourg,13.04
+AND,Andorra,13.18
+GBR,United Kingdom of Great Britain and Northern Ireland,13.19
+LUX,Luxembourg,13.27
+DNK,Denmark,13.31
+GBR,United Kingdom of Great Britain and Northern Ireland,13.34
+SGP,Singapore,13.35
+SGP,Singapore,13.35
+DEU,Germany,13.47
+CHE,Switzerland,13.58
+DOM,Dominican Republic,13.7
+JAM,Jamaica,13.77
+IDN,Indonesia,13.77
+BRA,Brazil,13.79
+AUT,Austria,13.83
+CHE,Switzerland,13.86
+SYC,Seychelles,13.88
+SYC,Seychelles,13.93
+LTU,Lithuania,14.03
+ITA,Italy,14.06
+SYC,Seychelles,14.18
+NLD,Netherlands,14.19
+BHS,Bahamas,14.27
+MYS,Malaysia,14.32
+JAM,Jamaica,14.55
+COM,Comoros,14.64
+COM,Comoros,14.65
+COM,Comoros,14.66
+PRY,Paraguay,14.69
+BRA,Brazil,14.74
+PRY,Paraguay,14.77
+LVA,Latvia,14.78
+PRY,Paraguay,14.82
+BRA,Brazil,14.92
+JAM,Jamaica,15
+DEU,Germany,15.03
+MYS,Malaysia,15.05
+IDN,Indonesia,15.1
+UKR,Ukraine,15.21
+FRA,France,15.21
+DEU,Germany,15.33
+GRC,Greece,15.44
+NLD,Netherlands,15.54
+TLS,Timor-Leste,15.55
+NLD,Netherlands,15.61
+MDA,Republic of Moldova,15.63
+ATG,Antigua and Barbuda,15.66
+AUT,Austria,15.86
+HTI,Haiti,15.86
+MCO,Monaco,15.9
+MCO,Monaco,15.9
+TLS,Timor-Leste,15.91
+MDG,Madagascar,15.98
+MDG,Madagascar,16.01
+DOM,Dominican Republic,16.03
+PAN,Panama,16.04
+MDG,Madagascar,16.04
+CUB,Cuba,16.12
+KAZ,Kazakhstan,16.16
+BHS,Bahamas,16.18
+FRA,France,16.22
+BEL,Belgium,16.28
+PAN,Panama,16.29
+IDN,Indonesia,16.39
+CYP,Cyprus,16.41
+BEL,Belgium,16.41
+DOM,Dominican Republic,16.57
+MDA,Republic of Moldova,16.58
+UKR,Ukraine,16.69
+ROU,Romania,16.69
+AUT,Austria,16.87
+PAN,Panama,16.94
+MLT,Malta,17.2
+MDA,Republic of Moldova,17.21
+MLT,Malta,17.21
+LVA,Latvia,17.22
+PHL,Philippines,17.24
+BLR,Belarus,17.38
+TKM,Turkmenistan,17.42
+HTI,Haiti,17.42
+BHS,Bahamas,17.42
+CZE,Czechia,17.49
+TLS,Timor-Leste,17.53
+LAO,Lao People's Democratic Republic,17.64
+KAZ,Kazakhstan,17.76
+UKR,Ukraine,17.82
+ROU,Romania,18.19
+DMA,Dominica,18.23
+ECU,Ecuador,18.28
+GEO,Georgia,18.31
+VNM,Viet Nam,18.32
+ECU,Ecuador,18.35
+ECU,Ecuador,18.39
+LAO,Lao People's Democratic Republic,18.43
+HUN,Hungary,18.53
+CYP,Cyprus,18.63
+GRC,Greece,18.77
+LCA,Saint Lucia,18.86
+CUB,Cuba,18.91
+TKM,Turkmenistan,18.94
+SVN,Slovenia,19.06
+CHL,Chile,19.16
+AZE,Azerbaijan,19.24
+CZE,Czechia,19.31
+SUR,Suriname,19.38
+LAO,Lao People's Democratic Republic,19.47
+ROU,Romania,19.49
+HTI,Haiti,19.55
+BLR,Belarus,19.57
+COL,Colombia,19.6
+ITA,Italy,19.64
+CYP,Cyprus,19.73
+VCT,Saint Vincent and the Grenadines,19.79
+CZE,Czechia,19.85
+HUN,Hungary,19.88
+LKA,Sri Lanka,19.9
+GRC,Greece,19.94
+HRV,Croatia,20.04
+PHL,Philippines,20.05
+DMA,Dominica,20.09
+ITA,Italy,20.24
+SVN,Slovenia,20.25
+ATG,Antigua and Barbuda,20.27
+COL,Colombia,20.32
+GUY,Guyana,20.34
+GRD,Grenada,20.36
+ATG,Antigua and Barbuda,20.45
+SWZ,Eswatini,20.45
+LKA,Sri Lanka,20.59
+CRI,Costa Rica,20.6
+MOZ,Mozambique,20.62
+HUN,Hungary,20.62
+CRI,Costa Rica,20.63
+BLZ,Belize,20.67
+SVK,Slovakia,20.74
+CRI,Costa Rica,20.79
+BLZ,Belize,20.84
+SWZ,Eswatini,20.85
+BLZ,Belize,20.86
+SVN,Slovenia,20.88
+DMA,Dominica,20.9
+SWZ,Eswatini,20.96
+COL,Colombia,20.96
+KGZ,Kyrgyzstan,21.05
+VNM,Viet Nam,21.08
+LKA,Sri Lanka,21.31
+HRV,Croatia,21.33
+NAM,Namibia,21.39
+TTO,Trinidad and Tobago,21.46
+ZAF,South Africa,21.48
+AZE,Azerbaijan,21.53
+MOZ,Mozambique,21.53
+BLR,Belarus,21.75
+ALB,Albania,21.8
+HRV,Croatia,21.89
+SVK,Slovakia,22.03
+MOZ,Mozambique,22.15
+GUY,Guyana,22.19
+VCT,Saint Vincent and the Grenadines,22.27
+TTO,Trinidad and Tobago,22.32
+ISR,Israel,22.33
+GRD,Grenada,22.47
+CUB,Cuba,22.5
+VEN,Venezuela (Bolivarian Republic of),22.59
+SVK,Slovakia,22.59
+VCT,Saint Vincent and the Grenadines,22.61
+CHL,Chile,22.64
+GRD,Grenada,22.67
+PHL,Philippines,22.68
+VEN,Venezuela (Bolivarian Republic of),22.71
+KHM,Cambodia,22.74
+ALB,Albania,22.77
+VNM,Viet Nam,22.79
+GEO,Georgia,22.82
+LCA,Saint Lucia,22.84
+LCA,Saint Lucia,22.87
+VEN,Venezuela (Bolivarian Republic of),22.87
+SOM,Somalia,22.89
+BGR,Bulgaria,23.05
+KHM,Cambodia,23.15
+BRB,Barbados,23.19
+TZA,United Republic of Tanzania,23.22
+POL,Poland,23.27
+BWA,Botswana,23.33
+KEN,Kenya,23.35
+LSO,Lesotho,23.39
+ISR,Israel,23.46
+TTO,Trinidad and Tobago,23.48
+SOM,Somalia,23.48
+LSO,Lesotho,23.52
+BWA,Botswana,23.53
+ZAF,South Africa,23.54
+ISR,Israel,23.55
+ZWE,Zimbabwe,23.57
+BWA,Botswana,23.59
+SOM,Somalia,23.65
+AZE,Azerbaijan,23.68
+KOR,Republic of Korea,23.85
+MAR,Morocco,23.99
+MAR,Morocco,24.02
+MAR,Morocco,24.06
+BOL,Bolivia (Plurinational State of),24.13
+LSO,Lesotho,24.23
+KGZ,Kyrgyzstan,24.41
+ALB,Albania,24.46
+KOR,Republic of Korea,24.47
+NIC,Nicaragua,24.48
+BRB,Barbados,24.55
+NAM,Namibia,24.55
+KOR,Republic of Korea,24.55
+BGR,Bulgaria,24.55
+ZWE,Zimbabwe,24.58
+UZB,Uzbekistan,24.66
+PER,Peru,24.81
+CHL,Chile,24.85
+MNE,Montenegro,24.94
+BOL,Bolivia (Plurinational State of),25
+SUR,Suriname,25.01
+GUY,Guyana,25.03
+ZWE,Zimbabwe,25.05
+NIC,Nicaragua,25.05
+KHM,Cambodia,25.09
+BRB,Barbados,25.18
+TZA,United Republic of Tanzania,25.22
+NIC,Nicaragua,25.38
+THA,Thailand,25.45
+MEX,Mexico,25.52
+MWI,Malawi,25.62
+KEN,Kenya,25.71
+KAZ,Kazakhstan,25.78
+TZA,United Republic of Tanzania,25.85
+MEX,Mexico,25.86
+MEX,Mexico,25.9
+BOL,Bolivia (Plurinational State of),26.25
+MNE,Montenegro,26.33
+KEN,Kenya,26.45
+POL,Poland,26.48
+THA,Thailand,26.66
+MWI,Malawi,26.75
+ZAF,South Africa,26.78
+MWI,Malawi,26.96
+ARM,Armenia,27.01
+MNE,Montenegro,27.08
+BGR,Bulgaria,27.32
+NAM,Namibia,27.55
+GEO,Georgia,27.61
+POL,Poland,27.78
+SUR,Suriname,28.33
+PER,Peru,28.41
+THA,Thailand,28.63
+KGZ,Kyrgyzstan,28.7
+TUN,Tunisia,28.79
+ZMB,Zambia,28.97
+DZA,Algeria,29.01
+TUN,Tunisia,29.02
+UZB,Uzbekistan,29.14
+ETH,Ethiopia,29.28
+TUN,Tunisia,29.48
+DZA,Algeria,29.67
+LBN,Lebanon,29.71
+HND,Honduras,29.75
+HND,Honduras,29.78
+HND,Honduras,29.81
+ETH,Ethiopia,29.88
+LBN,Lebanon,29.97
+LBN,Lebanon,29.97
+ETH,Ethiopia,30.11
+ZMB,Zambia,30.14
+MMR,Myanmar,30.6
+MMR,Myanmar,30.62
+ZMB,Zambia,30.69
+MMR,Myanmar,30.72
+SRB,Serbia,30.76
+PER,Peru,30.9
+MNG,Mongolia,31.02
+BIH,Bosnia and Herzegovina,31.51
+BTN,Bhutan,31.85
+SRB,Serbia,31.98
+DZA,Algeria,32.1
+SRB,Serbia,32.39
+BTN,Bhutan,32.54
+BTN,Bhutan,32.67
+TJK,Tajikistan,32.95
+DJI,Djibouti,33.11
+JOR,Jordan,33.11
+DJI,Djibouti,33.22
+SLV,El Salvador,33.29
+SSD,South Sudan,33.36
+DJI,Djibouti,33.37
+ERI,Eritrea,33.43
+SLV,El Salvador,33.43
+SLV,El Salvador,33.54
+JOR,Jordan,33.61
+SSD,South Sudan,33.62
+SSD,South Sudan,33.66
+MKD,The former Yugoslav Republic of Macedonia,33.78
+IRN,Iran (Islamic Republic of),34.07
+TUR,Turkey,34.09
+BDI,Burundi,34.21
+SYR,Syrian Arab Republic,34.38
+TUR,Turkey,34.43
+BDI,Burundi,34.46
+GTM,Guatemala,34.52
+UZB,Uzbekistan,34.6
+IRN,Iran (Islamic Republic of),34.62
+TKM,Turkmenistan,34.75
+GTM,Guatemala,34.82
+BDI,Burundi,34.92
+TUR,Turkey,34.95
+ARM,Armenia,35.02
+IRN,Iran (Islamic Republic of),35.05
+ERI,Eritrea,35.15
+GTM,Guatemala,35.17
+STP,Sao Tome and Principe,35.67
+ERI,Eritrea,35.8
+BIH,Bosnia and Herzegovina,35.83
+SYR,Syrian Arab Republic,35.99
+STP,Sao Tome and Principe,36.02
+TJK,Tajikistan,36.16
+RWA,Rwanda,36.21
+STP,Sao Tome and Principe,36.23
+RWA,Rwanda,36.36
+BEN,Benin,36.38
+RWA,Rwanda,36.41
+PRK,Democratic People's Republic of Korea,36.66
+AGO,Angola,36.71
+AGO,Angola,37.19
+AGO,Angola,37.33
+GAB,Gabon,37.41
+GAB,Gabon,37.5
+GAB,Gabon,37.55
+UGA,Uganda,37.65
+UGA,Uganda,38.12
+JOR,Jordan,38.12
+MKD,The former Yugoslav Republic of Macedonia,38.59
+BEN,Benin,38.68
+LBY,Libya,38.89
+PRK,Democratic People's Republic of Korea,39.13
+BIH,Bosnia and Herzegovina,39.22
+MNG,Mongolia,39.37
+GNQ,Equatorial Guinea,39.39
+GNQ,Equatorial Guinea,39.48
+SDN,Sudan,39.8
+UGA,Uganda,39.91
+PRK,Democratic People's Republic of Korea,40.02
+OMN,Oman,40.15
+SDN,Sudan,40.28
+GNQ,Equatorial Guinea,40.3
+SDN,Sudan,40.45
+YEM,Yemen,40.6
+COD,Democratic Republic of the Congo,40.69
+ARE,United Arab Emirates,40.69
+CAF,Central African Republic,40.73
+BEN,Benin,40.75
+COG,Congo,40.8
+TGO,Togo,40.8
+CAF,Central African Republic,40.81
+CAF,Central African Republic,40.94
+COD,Democratic Republic of the Congo,41.24
+LBY,Libya,41.31
+TGO,Togo,41.47
+OMN,Oman,41.69
+YEM,Yemen,41.96
+COG,Congo,42.06
+COD,Democratic Republic of the Congo,42.16
+LBY,Libya,42.28
+TGO,Togo,42.55
+YEM,Yemen,42.68
+OMN,Oman,42.97
+COG,Congo,43.12
+ARE,United Arab Emirates,43.24
+MKD,The former Yugoslav Republic of Macedonia,44.04
+ARE,United Arab Emirates,44.1
+SYR,Syrian Arab Republic,44.34
+CHN,China,45.15
+NGA,Nigeria,45.38
+LBR,Liberia,46.68
+GHA,Ghana,46.77
+ARM,Armenia,47.18
+LBR,Liberia,47.38
+LBR,Liberia,48.07
+AFG,Afghanistan,48.3
+CHN,China,48.55
+TJK,Tajikistan,48.58
+SLE,Sierra Leone,49.16
+GHA,Ghana,49.16
+PAK,Pakistan,49.75
+SLE,Sierra Leone,49.86
+GIN,Guinea,50.1
+GHA,Ghana,50.22
+AFG,Afghanistan,50.3
+GIN,Guinea,50.3
+BFA,Burkina Faso,50.43
+GIN,Guinea,50.73
+BGD,Bangladesh,50.8
+GNB,Guinea-Bissau,50.83
+GNB,Guinea-Bissau,51.26
+SLE,Sierra Leone,51.36
+BFA,Burkina Faso,51.66
+PAK,Pakistan,51.67
+GNB,Guinea-Bissau,51.7
+CIV,Côte d’Ivoire,51.7
+CHN,China,51.74
+BFA,Burkina Faso,51.95
+IND,India,52.21
+GMB,Gambia,52.51
+CIV,Côte d’Ivoire,52.84
+GMB,Gambia,53.65
+CIV,Côte d’Ivoire,53.93
+BGD,Bangladesh,54.17
+GMB,Gambia,54.41
+PAK,Pakistan,54.64
+BGD,Bangladesh,55.3
+TCD,Chad,55.39
+SEN,Senegal,55.49
+SEN,Senegal,55.76
+TCD,Chad,55.78
+NGA,Nigeria,55.82
+SEN,Senegal,55.98
+CMR,Cameroon,56.53
+CMR,Cameroon,57
+IRQ,Iraq,57.3
+EGY,Egypt,57.45
+CMR,Cameroon,57.56
+TCD,Chad,57.63
+KWT,Kuwait,57.83
+AFG,Afghanistan,58.08
+IND,India,58.26
+BHR,Bahrain,58.41
+MNG,Mongolia,58.8
+BHR,Bahrain,58.96
+BHR,Bahrain,58.98
+SAU,Saudi Arabia,59.82
+CAN,Canada,6.22
+AUS,Australia,6.29
+NZL,New Zealand,6.4
+SWE,Sweden,6.59
+NZL,New Zealand,6.74
+NZL,New Zealand,6.82
+NRU,Nauru,6.98
+NRU,Nauru,6.98
+EST,Estonia,6.98
+FIN,Finland,6.99
+IRQ,Iraq,60.05
+SAU,Saudi Arabia,60.65
+CPV,Cabo Verde,60.72
+CPV,Cabo Verde,60.96
+MLI,Mali,61.16
+CPV,Cabo Verde,61.65
+NPL,Nepal,61.73
+MLI,Mali,61.78
+EGY,Egypt,62.02
+MLI,Mali,62.14
+IRQ,Iraq,62.34
+EGY,Egypt,62.51
+SAU,Saudi Arabia,62.76
+KWT,Kuwait,63.6
+NPL,Nepal,63.67
+NGA,Nigeria,63.91
+IND,India,65.11
+KWT,Kuwait,65.93
+NPL,Nepal,68.26
+MRT,Mauritania,68.57
+QAT,Qatar,69.44
+BRN,Brunei Darussalam,7.03
+PLW,Palau,7.07
+BRN,Brunei Darussalam,7.09
+PLW,Palau,7.1
+PLW,Palau,7.11
+TUV,Tuvalu,7.2
+TUV,Tuvalu,7.2
+AUS,Australia,7.23
+COK,Cook Islands,7.25
+COK,Cook Islands,7.25
+SWE,Sweden,7.25
+AUS,Australia,7.37
+BRN,Brunei Darussalam,7.42
+FIN,Finland,7.51
+NIU,Niue,7.6
+NIU,Niue,7.6
+SWE,Sweden,7.6
+ISL,Iceland,7.7
+ISL,Iceland,7.7
+ISL,Iceland,7.7
+EST,Estonia,7.79
+MRT,Mauritania,70.4
+MRT,Mauritania,72.41
+QAT,Qatar,76.55
+QAT,Qatar,77.35
+CAN,Canada,8.08
+USA,United States of America,8.15
+EST,Estonia,8.19
+KNA,Saint Kitts and Nevis,8.2
+KNA,Saint Kitts and Nevis,8.21
+NOR,Norway,8.22
+NRU,Nauru,8.27
+KNA,Saint Kitts and Nevis,8.28
+FIN,Finland,8.41
+CAN,Canada,8.47
+SMR,San Marino,8.64
+SMR,San Marino,8.64
+MUS,Mauritius,8.78
+URY,Uruguay,8.99
+NER,Niger,82.21
+NER,Niger,85.23
+NER,Niger,85.8
+NOR,Norway,9.08
+USA,United States of America,9.29
+URY,Uruguay,9.3
+URY,Uruguay,9.32
+RUS,Russian Federation,9.35
+IRL,Ireland,9.52
+USA,United States of America,9.56
+PRT,Portugal,9.7
+MUS,Mauritius,9.75
+PRT,Portugal,10
+ESP,Spain,10.03
+IRL,Ireland,10.1
+MUS,Mauritius,10.16
+RUS,Russian Federation,10.16
+MHL,Marshall Islands,10.2
+MHL,Marshall Islands,10.2
+TON,Tonga,10.34
+FJI,Fiji,10.35
+VUT,Vanuatu,10.35
+FSM,Micronesia (Federated States of),10.36
+SLB,Solomon Islands,10.4
+TON,Tonga,10.43
+PNG,Papua New Guinea,10.43
+FSM,Micronesia (Federated States of),10.46
+SLB,Solomon Islands,10.5
+PNG,Papua New Guinea,10.51
+WSM,Samoa,10.53
+KIR,Kiribati,10.56
+AND,Andorra,10.56
+FSM,Micronesia (Federated States of),10.58
+VUT,Vanuatu,10.59
+TON,Tonga,10.64
+KIR,Kiribati,10.65
+IRL,Ireland,10.67
+WSM,Samoa,10.68
+FJI,Fiji,10.76
+KIR,Kiribati,10.78
+WSM,Samoa,10.91
+CHE,Switzerland,10.94
+PRT,Portugal,10.98
+MUS,Mauritius,11
+ARG,Argentina,11.08
+LUX,Luxembourg,11.21
+FJI,Fiji,11.24
+VUT,Vanuatu,11.28
+DNK,Denmark,11.3
+ARG,Argentina,11.42
+SGP,Singapore,11.45
+ESP,Spain,11.48
+SLB,Solomon Islands,11.51
+JPN,Japan,11.57
+AND,Andorra,11.69
+PNG,Papua New Guinea,11.77
+BEL,Belgium,11.82
+JPN,Japan,11.85
+ESP,Spain,11.87
+MLT,Malta,11.97
+DNK,Denmark,12.24
+ARG,Argentina,12.36
+RUS,Russian Federation,12.41
+FRA,France,12.46
+DNK,Denmark,12.56
+GBR,United Kingdom of Great Britain and Northern Ireland,12.57
+AND,Andorra,12.66
+SYC,Seychelles,12.69
+GBR,United Kingdom of Great Britain and Northern Ireland,12.71
+SYC,Seychelles,12.71
+SYC,Seychelles,12.72
+SGP,Singapore,12.84
+SGP,Singapore,12.84
+MDV,Maldives,13.06
+LUX,Luxembourg,13.18
+LTU,Lithuania,13.23
+ITA,Italy,13.24
+CHE,Switzerland,13.39
+LVA,Latvia,13.4
+KAZ,Kazakhstan,13.42
+MDV,Maldives,13.43
+LUX,Luxembourg,13.43
+BRA,Brazil,13.5
+AUT,Austria,13.55
+DOM,Dominican Republic,13.65
+DEU,Germany,13.67
+CHE,Switzerland,13.68
+JAM,Jamaica,13.78
+NLD,Netherlands,13.98
+MYS,Malaysia,14.14
+LTU,Lithuania,14.27
+GRC,Greece,14.28
+COM,Comoros,14.32
+COM,Comoros,14.32
+COM,Comoros,14.32
+BRA,Brazil,14.37
+RUS,Russian Federation,14.39
+BHS,Bahamas,14.42
+TKM,Turkmenistan,14.45
+MDV,Maldives,14.46
+BRA,Brazil,14.53
+JAM,Jamaica,14.54
+KAZ,Kazakhstan,14.72
+PRY,Paraguay,14.86
+GEO,Georgia,14.9
+FRA,France,14.9
+PRY,Paraguay,14.94
+JAM,Jamaica,14.96
+PRY,Paraguay,14.99
+MCO,Monaco,15.24
+MCO,Monaco,15.24
+ROU,Romania,15.27
+MDG,Madagascar,15.33
+PAN,Panama,15.35
+DEU,Germany,15.36
+MDG,Madagascar,15.36
+MDG,Madagascar,15.38
+ATG,Antigua and Barbuda,15.4
+AUT,Austria,15.49
+LTU,Lithuania,15.55
+NLD,Netherlands,15.57
+PAN,Panama,15.62
+AZE,Azerbaijan,15.63
+NLD,Netherlands,15.64
+HTI,Haiti,15.65
+TKM,Turkmenistan,15.66
+UKR,Ukraine,15.68
+DEU,Germany,15.71
+DOM,Dominican Republic,15.86
+FRA,France,15.87
+CYP,Cyprus,15.95
+MDA,Republic of Moldova,16
+CUB,Cuba,16.11
+PAN,Panama,16.24
+BHS,Bahamas,16.31
+LVA,Latvia,16.43
+BEL,Belgium,16.43
+DOM,Dominican Republic,16.43
+AUT,Austria,16.49
+ROU,Romania,16.54
+MLT,Malta,16.56
+BEL,Belgium,16.57
+MLT,Malta,16.58
+IDN,Indonesia,16.81
+MDA,Republic of Moldova,16.94
+UKR,Ukraine,17.11
+MYS,Malaysia,17.13
+GRC,Greece,17.17
+HTI,Haiti,17.17
+KGZ,Kyrgyzstan,17.29
+AZE,Azerbaijan,17.49
+HUN,Hungary,17.49
+SVN,Slovenia,17.57
+MDA,Republic of Moldova,17.58
+ROU,Romania,17.65
+CZE,Czechia,17.67
+BHS,Bahamas,17.7
+TLS,Timor-Leste,17.78
+DMA,Dominica,17.81
+MYS,Malaysia,18
+CYP,Cyprus,18.07
+TLS,Timor-Leste,18.15
+UKR,Ukraine,18.17
+GRC,Greece,18.35
+LCA,Saint Lucia,18.37
+ITA,Italy,18.5
+HRV,Croatia,18.51
+CHL,Chile,18.59
+GEO,Georgia,18.61
+BLR,Belarus,18.63
+SVN,Slovenia,18.69
+CUB,Cuba,18.79
+HUN,Hungary,18.84
+IDN,Indonesia,18.85
+ITA,Italy,19.06
+LVA,Latvia,19.15
+CYP,Cyprus,19.19
+COL,Colombia,19.26
+AZE,Azerbaijan,19.29
+SVN,Slovenia,19.31
+SUR,Suriname,19.33
+ALB,Albania,19.38
+HTI,Haiti,19.42
+ECU,Ecuador,19.43
+ECU,Ecuador,19.56
+CZE,Czechia,19.57
+HUN,Hungary,19.59
+ECU,Ecuador,19.66
+VCT,Saint Vincent and the Grenadines,19.68
+HRV,Croatia,19.7
+CRI,Costa Rica,19.78
+CRI,Costa Rica,19.8
+DMA,Dominica,19.83
+COL,Colombia,19.9
+TLS,Timor-Leste,19.96
+CRI,Costa Rica,19.99
+SVK,Slovakia,20
+KGZ,Kyrgyzstan,20.08
+ALB,Albania,20.09
+ATG,Antigua and Barbuda,20.1
+GUY,Guyana,20.11
+CZE,Czechia,20.15
+BLZ,Belize,20.19
+UZB,Uzbekistan,20.2
+HRV,Croatia,20.23
+ATG,Antigua and Barbuda,20.27
+BGR,Bulgaria,20.29
+BLZ,Belize,20.36
+GRD,Grenada,20.38
+BLZ,Belize,20.39
+COL,Colombia,20.49
+DMA,Dominica,20.51
+IDN,Indonesia,20.7
+BLR,Belarus,20.97
+MOZ,Mozambique,20.98
+PHL,Philippines,21.08
+NAM,Namibia,21.22
+SVK,Slovakia,21.24
+KAZ,Kazakhstan,21.25
+TTO,Trinidad and Tobago,21.36
+BGR,Bulgaria,21.56
+ALB,Albania,21.59
+VEN,Venezuela (Bolivarian Republic of),21.65
+ISR,Israel,21.65
+SVK,Slovakia,21.78
+SWZ,Eswatini,21.8
+VEN,Venezuela (Bolivarian Republic of),21.8
+MOZ,Mozambique,21.82
+ARM,Armenia,21.84
+CHL,Chile,21.92
+KOR,Republic of Korea,21.95
+VEN,Venezuela (Bolivarian Republic of),22
+VCT,Saint Vincent and the Grenadines,22.02
+SWZ,Eswatini,22.04
+CUB,Cuba,22.05
+GUY,Guyana,22.08
+SWZ,Eswatini,22.12
+MNE,Montenegro,22.17
+VNM,Viet Nam,22.22
+TTO,Trinidad and Tobago,22.22
+LAO,Lao People's Democratic Republic,22.23
+GRD,Grenada,22.3
+MOZ,Mozambique,22.38
+ZAF,South Africa,22.38
+GEO,Georgia,22.43
+GRD,Grenada,22.45
+VCT,Saint Vincent and the Grenadines,22.46
+LCA,Saint Lucia,22.51
+LCA,Saint Lucia,22.53
+KOR,Republic of Korea,22.59
+KOR,Republic of Korea,22.67
+TZA,United Republic of Tanzania,22.84
+BRB,Barbados,22.93
+ISR,Israel,22.99
+ISR,Israel,23.09
+SOM,Somalia,23.13
+KEN,Kenya,23.21
+TTO,Trinidad and Tobago,23.23
+LAO,Lao People's Democratic Republic,23.26
+SOM,Somalia,23.28
+SOM,Somalia,23.31
+BLR,Belarus,23.41
+NIC,Nicaragua,23.51
+ZWE,Zimbabwe,23.55
+MNE,Montenegro,23.55
+POL,Poland,23.59
+KGZ,Kyrgyzstan,23.69
+BGR,Bulgaria,23.79
+UZB,Uzbekistan,23.88
+LKA,Sri Lanka,23.91
+MEX,Mexico,23.97
+NIC,Nicaragua,24.06
+CHL,Chile,24.16
+MNE,Montenegro,24.2
+BRB,Barbados,24.25
+MEX,Mexico,24.36
+MEX,Mexico,24.4
+NIC,Nicaragua,24.43
+ZAF,South Africa,24.5
+NAM,Namibia,24.59
+LAO,Lao People's Democratic Republic,24.59
+ZWE,Zimbabwe,24.66
+BRB,Barbados,24.69
+PHL,Philippines,24.7
+LKA,Sri Lanka,24.76
+GUY,Guyana,24.81
+SUR,Suriname,25.04
+MWI,Malawi,25.05
+ZWE,Zimbabwe,25.17
+TZA,United Republic of Tanzania,25.23
+KEN,Kenya,25.27
+LSO,Lesotho,25.28
+LSO,Lesotho,25.49
+MNG,Mongolia,25.49
+LKA,Sri Lanka,25.65
+VNM,Viet Nam,25.7
+MAR,Morocco,25.89
+KEN,Kenya,25.92
+TZA,United Republic of Tanzania,25.97
+MAR,Morocco,26.06
+MWI,Malawi,26.1
+MAR,Morocco,26.23
+PER,Peru,26.24
+BWA,Botswana,26.27
+MWI,Malawi,26.29
+BWA,Botswana,26.32
+BOL,Bolivia (Plurinational State of),26.33
+BWA,Botswana,26.49
+POL,Poland,26.68
+TJK,Tajikistan,26.72
+LSO,Lesotho,26.83
+SRB,Serbia,27.13
+BOL,Bolivia (Plurinational State of),27.2
+NAM,Namibia,27.67
+ZAF,South Africa,27.83
+HND,Honduras,27.87
+VNM,Viet Nam,27.88
+POL,Poland,27.88
+HND,Honduras,27.94
+HND,Honduras,27.99
+KHM,Cambodia,28.03
+SUR,Suriname,28.19
+ARM,Armenia,28.3
+SRB,Serbia,28.35
+UZB,Uzbekistan,28.36
+PHL,Philippines,28.36
+BIH,Bosnia and Herzegovina,28.46
+BOL,Bolivia (Plurinational State of),28.49
+ETH,Ethiopia,28.54
+KHM,Cambodia,28.56
+ZMB,Zambia,28.75
+SRB,Serbia,28.76
+TKM,Turkmenistan,28.96
+ETH,Ethiopia,29.15
+DZA,Algeria,29.23
+MKD,The former Yugoslav Republic of Macedonia,29.26
+TJK,Tajikistan,29.29
+ETH,Ethiopia,29.39
+PER,Peru,29.82
+ZMB,Zambia,29.9
+DZA,Algeria,30.01
+ZMB,Zambia,30.43
+DJI,Djibouti,30.45
+DJI,Djibouti,30.45
+DJI,Djibouti,30.49
+KHM,Cambodia,31.06
+TUN,Tunisia,31.06
+SLV,El Salvador,31.16
+SLV,El Salvador,31.27
+THA,Thailand,31.31
+SLV,El Salvador,31.37
+TUN,Tunisia,31.72
+SSD,South Sudan,32.07
+LBN,Lebanon,32.16
+BIH,Bosnia and Herzegovina,32.26
+SSD,South Sudan,32.3
+THA,Thailand,32.3
+SSD,South Sudan,32.33
+PER,Peru,32.33
+MNG,Mongolia,32.35
+GTM,Guatemala,32.51
+LBN,Lebanon,32.65
+LBN,Lebanon,32.67
+GTM,Guatemala,32.8
+ERI,Eritrea,32.85
+DZA,Algeria,33.08
+GTM,Guatemala,33.19
+TUN,Tunisia,33.24
+MKD,The former Yugoslav Republic of Macedonia,33.25
+BTN,Bhutan,33.27
+BTN,Bhutan,33.75
+BTN,Bhutan,33.82
+THA,Thailand,33.84
+BEN,Benin,34
+ERI,Eritrea,34.7
+BDI,Burundi,34.84
+BDI,Burundi,35.09
+IRN,Iran (Islamic Republic of),35.2
+BIH,Bosnia and Herzegovina,35.26
+ERI,Eritrea,35.38
+PRK,Democratic People's Republic of Korea,35.45
+JOR,Jordan,35.53
+BDI,Burundi,35.59
+IRN,Iran (Islamic Republic of),35.7
+YEM,Yemen,35.74
+JOR,Jordan,35.99
+IRN,Iran (Islamic Republic of),36.08
+BEN,Benin,36.14
+AGO,Angola,36.5
+STP,Sao Tome and Principe,36.56
+AGO,Angola,36.67
+YEM,Yemen,36.68
+AGO,Angola,36.7
+STP,Sao Tome and Principe,36.72
+STP,Sao Tome and Principe,36.86
+YEM,Yemen,37.12
+UGA,Uganda,37.16
+MMR,Myanmar,37.25
+MMR,Myanmar,37.31
+UGA,Uganda,37.47
+MMR,Myanmar,37.53
+SYR,Syrian Arab Republic,37.6
+TUR,Turkey,37.67
+RWA,Rwanda,37.79
+RWA,Rwanda,37.79
+PRK,Democratic People's Republic of Korea,37.8
+RWA,Rwanda,37.81
+MKD,The former Yugoslav Republic of Macedonia,37.84
+LBR,Liberia,38.04
+ARM,Armenia,38.06
+TGO,Togo,38.07
+BEN,Benin,38.1
+SDN,Sudan,38.34
+SDN,Sudan,38.51
+TGO,Togo,38.56
+SDN,Sudan,38.57
+PRK,Democratic People's Republic of Korea,38.64
+UGA,Uganda,38.69
+TUR,Turkey,38.76
+OMN,Oman,38.9
+TJK,Tajikistan,38.94
+LBR,Liberia,39.17
+SYR,Syrian Arab Republic,39.47
+TGO,Togo,39.49
+CAF,Central African Republic,39.88
+CAF,Central African Republic,39.94
+CAF,Central African Republic,40.08
+LBR,Liberia,40.3
+TUR,Turkey,40.49
+JOR,Jordan,40.55
+ARE,United Arab Emirates,40.6
+OMN,Oman,40.7
+GNQ,Equatorial Guinea,41.38
+GNQ,Equatorial Guinea,41.46
+GAB,Gabon,42.02
+OMN,Oman,42.16
+GNQ,Equatorial Guinea,42.22
+GAB,Gabon,42.27
+COD,Democratic Republic of the Congo,42.42
+GAB,Gabon,42.44
+NGA,Nigeria,42.58
+GHA,Ghana,42.7
+COD,Democratic Republic of the Congo,43.23
+ARE,United Arab Emirates,43.38
+CHN,China,43.49
+SLE,Sierra Leone,43.53
+SLE,Sierra Leone,44.1
+COG,Congo,44.21
+ARE,United Arab Emirates,44.34
+GHA,Ghana,44.42
+COD,Democratic Republic of the Congo,44.6
+CIV,Côte d’Ivoire,45.08
+COG,Congo,45.11
+GHA,Ghana,45.22
+CIV,Côte d’Ivoire,45.23
+CIV,Côte d’Ivoire,45.32
+SLE,Sierra Leone,45.48
+COG,Congo,45.7
+CHN,China,46.75
+CPV,Cabo Verde,47.57
+GIN,Guinea,47.62
+AFG,Afghanistan,47.75
+CPV,Cabo Verde,47.84
+GIN,Guinea,47.9
+GIN,Guinea,47.99
+CPV,Cabo Verde,48.18
+SYR,Syrian Arab Republic,48.3
+MNG,Mongolia,48.81
+LBY,Libya,49.01
+BFA,Burkina Faso,49.09
+CHN,China,49.63
+AFG,Afghanistan,49.8
+BFA,Burkina Faso,50.63
+PAK,Pakistan,50.81
+BFA,Burkina Faso,50.96
+GNB,Guinea-Bissau,50.97
+LBY,Libya,51.1
+GNB,Guinea-Bissau,51.38
+LBY,Libya,51.85
+GNB,Guinea-Bissau,52
+BGD,Bangladesh,52.64
+PAK,Pakistan,52.87
+NGA,Nigeria,53.51
+SEN,Senegal,53.55
+IND,India,54.04
+GMB,Gambia,54.71
+GMB,Gambia,54.73
+GMB,Gambia,54.73
+SEN,Senegal,54.74
+TCD,Chad,55.19
+TCD,Chad,55.79
+KWT,Kuwait,56.02
+BGD,Bangladesh,56.03
+PAK,Pakistan,56.1
+SEN,Senegal,56.23
+BGD,Bangladesh,57.18
+AFG,Afghanistan,57.34
+SAU,Saudi Arabia,58.04
+CMR,Cameroon,58.09
+CMR,Cameroon,58.25
+CMR,Cameroon,58.4
+BHR,Bahrain,58.45
+TCD,Chad,58.59
+BHR,Bahrain,58.94
+BHR,Bahrain,58.97
+SAU,Saudi Arabia,59.17
+SWE,Sweden,6.33
+BRN,Brunei Darussalam,6.46
+CAN,Canada,6.46
+AUS,Australia,6.48
+BRN,Brunei Darussalam,6.5
+NZL,New Zealand,6.58
+BRN,Brunei Darussalam,6.76
+FIN,Finland,6.78
+NZL,New Zealand,6.91
+NZL,New Zealand,6.99
+MLI,Mali,60.26
+IRQ,Iraq,60.48
+IND,India,60.51
+MLI,Mali,60.95
+NGA,Nigeria,61.28
+MLI,Mali,61.29
+SAU,Saudi Arabia,62.11
+KWT,Kuwait,62.26
+IRQ,Iraq,63.11
+NPL,Nepal,63.93
+KWT,Kuwait,64.64
+IRQ,Iraq,65.29
+NPL,Nepal,65.94
+MRT,Mauritania,66.89
+EGY,Egypt,67.17
+MRT,Mauritania,67.64
+IND,India,68.06
+MRT,Mauritania,68.4
+QAT,Qatar,69.06
+SWE,Sweden,7
+NRU,Nauru,7.04
+NRU,Nauru,7.04
+TUV,Tuvalu,7.28
+TUV,Tuvalu,7.28
+FIN,Finland,7.28
+PLW,Palau,7.33
+SWE,Sweden,7.37
+PLW,Palau,7.4
+PLW,Palau,7.42
+ISL,Iceland,7.42
+ISL,Iceland,7.43
+AUS,Australia,7.44
+ISL,Iceland,7.44
+COK,Cook Islands,7.59
+COK,Cook Islands,7.59
+AUS,Australia,7.59
+EST,Estonia,7.68
+NOR,Norway,7.74
+NIU,Niue,7.76
+NIU,Niue,7.76
+NPL,Nepal,71.28
+EGY,Egypt,72.72
+EGY,Egypt,73.44
+QAT,Qatar,76.67
+NER,Niger,77.54
+QAT,Qatar,77.58
+USA,United States of America,8.11
+FIN,Finland,8.16
+CAN,Canada,8.21
+KNA,Saint Kitts and Nevis,8.39
+KNA,Saint Kitts and Nevis,8.43
+NRU,Nauru,8.48
+NOR,Norway,8.49
+KNA,Saint Kitts and Nevis,8.5
+EST,Estonia,8.56
+CAN,Canada,8.56
+SMR,San Marino,8.59
+SMR,San Marino,8.59
+URY,Uruguay,8.83
+NER,Niger,81
+NER,Niger,81.67
+EST,Estonia,9.03
+URY,Uruguay,9.07
+URY,Uruguay,9.09
+USA,United States of America,9.19
+MUS,Mauritius,9.2
+IRL,Ireland,9.23
+USA,United States of America,9.44
+PRT,Portugal,9.48
+NOR,Norway,9.5
+JPN,Japan,9.9
+GBR,United Kingdom of Great Britain and Northern Ireland,9.97

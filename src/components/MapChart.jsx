@@ -70,6 +70,7 @@ function MapChart({ chartType }) {
     const updateChart = () => {
         if (chartType === 'Population') {
 
+            if(popData){
             let formattedPopData = [];
             popData.data.forEach((row, index) => {
                 let countryIndex = ISO3Codes.indexOf(row[4])
@@ -84,10 +85,15 @@ function MapChart({ chartType }) {
             formattedPopData.push({ISO3: "RUS", Name: "Russian Federation", 2015: 144000})
 
             setData(formattedPopData);
+            }
+            else{
+                csv(`/popDataBackup.csv`).then((data) => {
+                    setData(data);
+                });
+            }
 
             colorScale = scaleQuantize()
                 .domain([10, 1500000])
-                // .domain([1000, 75000])
                 .range([
                     "#ffedea",
                     "#ffcec5",
@@ -102,6 +108,9 @@ function MapChart({ chartType }) {
         }
         else if (chartType === 'Doctors Per 10,000 People') {
 
+            if(docData){
+
+            
             let formattedDocData = [];
             docData.forEach((row, index) => {
                 let countryIndex = ISO3Codes.indexOf(row[5])
@@ -116,10 +125,15 @@ function MapChart({ chartType }) {
             formattedDocData.push({ISO3: "RUS", Name: "Russian Federation", 2015: 44.4})
 
             setData(formattedDocData);
+            }
+            else{
+                csv(`/docDataBackup.csv`).then((data) => {
+                    setData(data);
+                });
+            }
 
             colorScale = scaleQuantize()
                 .domain([0.1, 100])
-                // .domain([1000, 75000])
                 .range([
                     "#ffedea",
                     "#ffcec5",
@@ -134,6 +148,7 @@ function MapChart({ chartType }) {
         }
         else if (chartType === 'Air Pollution') {
 
+            if(airData){
             let formattedAirData = [];
             airData.forEach((row, index) => {
                 let countryIndex = ISO3Codes.indexOf(row[6])
@@ -148,6 +163,12 @@ function MapChart({ chartType }) {
             formattedAirData.push({ISO3: "RUS", Name: "Russian Federation", 2015: 9.8})
 
             setData(formattedAirData);
+            }
+            else{
+                csv(`/airPolDataBackup.csv`).then((data) => {
+                    setData(data);
+                });
+            }
 
             colorScale = scaleQuantize()
                 .domain([5, 150])
@@ -165,15 +186,10 @@ function MapChart({ chartType }) {
                 ]);
         }
         else if (chartType === 'GDP Per Capita') {
-            csv(`/score.csv`).then((data) => {
-                // console.log(data);
-                // console.log(data[191]);
-                // console.log(data.columns);
-                // console.log(typeof data);
+            csv(`/gdp-per-capita.csv`).then((data) => {
                 setData(data);
             });
             colorScale = scaleQuantize()
-                // .domain([10000, 1500000000])
                 .domain([1000, 75000])
                 .range([
                     "#ffedea",
@@ -192,7 +208,6 @@ function MapChart({ chartType }) {
                 setData(data);
             });
             colorScale = scaleQuantize()
-                // .domain([10000, 1500000000])
                 .domain([10, 99])
                 .range([
                     "#ffedea",

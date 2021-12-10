@@ -1,11 +1,10 @@
 
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
-import { useSelector, useDispatch } from 'react-redux';
+import { useSelector } from 'react-redux';
 import { DataGrid } from '@mui/x-data-grid';
 import { Button, ButtonGroup, Card } from '@mui/material';
 import { v4 as uuidv4 } from 'uuid';
-import Fade from 'react-reveal/Fade';
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
 import { Pie, Doughnut } from 'react-chartjs-2';
 const lookup = require('country-code-lookup')
@@ -96,19 +95,13 @@ function CountryInformation() {
     const [countryCapital, setCountryCapital] = useState('')
     // const [countryISO2, setCountryISO2] = useState(ISO2Codes[countryNames.indexOf(country1)]);
     const [countryFacts, setCountryFacts] = useState({})
-    const [chosenCountryCities, setChosenCountryCities] = useState(citiesData.data.filter(city => city.country.toLowerCase().includes(countriesData.data[country1].country.toLowerCase())))
+    const [chosenCountryCities] = useState(citiesData.data.filter(city => city.country.toLowerCase().includes(countriesData.data[country1].country.toLowerCase())))
     const capitalsData = useSelector(state => state.populationRDC.capitals);
     const [showPop, setShowPop] = useState(false);
     const [showEco, setShowEco] = useState(false);
     const [showGeo, setShowGeo] = useState(false);
     const [showDis, setShowDis] = useState(false);
-    // console.log(citiesData.data);
-    // console.log(lookup.countries);
-    // console.log(lookup.byCountry(countriesData.data[country1].country).fips);
-    // let countryObj = lookup.byIso(ISO2Codes[countryNames.indexOf(countriesData.data[country1].country)]);
-    // console.log(countryObj.fips);
-    // let chosenCountryCities = citiesData.data.filter(city => city.country.toLowerCase().includes(countriesData.data[country1].country.toLowerCase()));
-    // console.log(chosenCountryCities);
+    
     let chosenCountryCitiesRowObj = chosenCountryCities.map(city => {
         return {
             id: uuidv4(),

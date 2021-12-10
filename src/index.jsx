@@ -56,7 +56,7 @@ store.subscribe(() => {
 })
 
 ReactDOM.render(
-  <React.StrictMode>
+  <React.Fragment>
     <Provider store={store}>
       <Router>
         <BaseLayout>
@@ -69,7 +69,7 @@ ReactDOM.render(
         </BaseLayout>
       </Router>
     </Provider>
-  </React.StrictMode>,
+  </React.Fragment>,
   document.getElementById('root')
 );
 

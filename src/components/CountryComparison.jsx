@@ -260,12 +260,7 @@ function Graph() {
         { field: 'populationStart', headerName: `Population in ${countriesData.data[country1].populationCounts[0].year}`, type: 'number', width: 150 },
         { field: 'populationNow', headerName: `Population in ${countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].year}`, type: 'number', width: 150 },
         { field: 'populationChange', headerName: `% Change in Population`, type: 'number', width: 200 },
-        // {
-        //     field: 'population',
-        //     headerName: 'Population',
-        //     type: 'number',
-        //     width: 130,
-        // },
+        
     ];
 
     const rows = [
@@ -300,15 +295,6 @@ function Graph() {
                     </Fade>
                     <hr />
                     <div className="row justify-content-center">
-                        {/* <div style={{textAlign: 'center'}} className="col-12">
-                        Population change between 1960 and {labels[labels.length - 1]}:
-                        </div>
-                        <div style={{textAlign: 'center'}} className="col-6">
-                            {countriesData.data[country1].country}: {Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length-1].value/countriesData.data[country1].populationCounts[0].value*100)}%
-                        </div>
-                        <div style={{textAlign: 'center'}} className="col-6">
-                            {countriesData.data[country2].country}: {Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length-1].value/countriesData.data[country2].populationCounts[0].value*100)}%
-                        </div> */}
                         <div className='col-12 col-lg-10 col-xl-8' >
                             <Fade left>
                                 <div style={{ height: 200, width: '100%' }}>

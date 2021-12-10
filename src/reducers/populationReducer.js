@@ -1,4 +1,4 @@
-import { addCities } from "../actions/templateActions";
+
 import { ADD_COUNTRIES, CHOOSE_COUNTRY_1, CHOOSE_COUNTRY_2, ADD_CITIES, ADD_FLAGS, ADD_CAPITALS, ADD_POP_CSV, ADD_DOC_CSV, ADD_AIR_CSV } from "../actions/types";
 
 const initialState = {

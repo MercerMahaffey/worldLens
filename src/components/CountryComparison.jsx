@@ -30,10 +30,14 @@ ChartJS.register(
 
 const lookup = require('country-code-lookup')
 
+// this is the label for the line graph with a select number of years. If the api returns data for a new year not on this list it is added on to the end of the array.
 let labels = [1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018];
+
+// this is my method for matching country names with ISO2 codes and using the ISO2 codes to return the FIPS code using the "lookup" function imported in because different apis/datasets use different standards for country names and codes
 let countryNames = ['Afghanistan', 'Albania', 'Algeria', 'Andorra', 'Angola', 'Anguilla', 'Antigua and Barbuda', 'Argentina', 'Armenia', 'Aruba', 'Australia', 'Austria', 'Azerbaijan', 'Bahamas', 'Bahrain', 'Bangladesh', 'Barbados', 'Belarus', 'Belgium', 'Belize', 'Benin', 'Bermuda', 'Bhutan', 'Bosnia and Herzegovina', 'Botswana', 'Bouvet Island', 'Brazil', 'British Indian Ocean Territory', 'Brunei Darussalam', 'Bulgaria', 'Burkina Faso', 'Burundi', 'Cambodia', 'Cameroon', 'Canada', 'Cape Verde', 'Cayman Islands', 'Central African Republic', 'Chad', 'Chile', 'China', 'Christmas Island', 'Cocos (Keeling) Islands', 'Colombia', 'Comoros', 'Congo', 'Cook Islands', 'Costa Rica', 'Croatia', 'Cuba', 'Cyprus', 'Czech Republic', 'Denmark', 'Djibouti', 'Dominica', 'Dominican Republic', 'Ecuador', 'Egypt', 'El Salvador', 'Equatorial Guinea', 'Eritrea', 'Estonia', 'Ethiopia', 'Falkland Islands (Malvinas)', 'Faroe Islands', 'Fiji', 'Finland', 'France', 'French Guiana', 'French Polynesia', 'Gabon', 'Gambia', 'Georgia', 'Germany', 'Ghana', 'Gibraltar', 'Greece', 'Greenland', 'Grenada', 'Guadeloupe', 'Guam', 'Guatemala', 'Guernsey', 'Guinea', 'Guinea-Bissau', 'Guyana', 'Haiti', 'Heard Island and McDonald Islands', 'Holy See (Vatican City State)', 'Honduras', 'Hong Kong', 'Hungary', 'Iceland', 'India', 'Indonesia', 'Iran', 'Iraq', 'Ireland', 'Isle of Man', 'Israel', 'Italy', 'Jamaica', 'Japan', 'Jersey', 'Jordan', 'Kazakhstan', 'Kenya', 'Kiribati', 'Kuwait', 'Kyrgyzstan', "Lao People's Democratic Republic", 'Latvia', 'Lebanon', 'Lesotho', 'Liberia', 'Libya', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Macao', 'Madagascar', 'Malawi', 'Malaysia', 'Maldives', 'Mali', 'Malta', 'Marshall Islands', 'Martinique', 'Mauritania', 'Mauritius', 'Mayotte', 'Mexico', 'Monaco', 'Mongolia', 'Montenegro', 'Montserrat', 'Morocco', 'Mozambique', 'Myanmar', 'Namibia', 'Nauru', 'Nepal', 'Netherlands', 'New Caledonia', 'New Zealand', 'Nicaragua', 'Niger', 'Nigeria', 'Niue', 'Norfolk Island', 'Northern Mariana Islands', 'Norway', 'Oman', 'Pakistan', 'Palau', 'Panama', 'Papua New Guinea', 'Paraguay', 'Peru', 'Philippines', 'Pitcairn', 'Poland', 'Portugal', 'Puerto Rico', 'Qatar', 'Réunion', 'Romania', 'Russian Federation', 'Rwanda', 'Saint Kitts and Nevis', 'Saint Lucia', 'Saint Pierre and Miquelon', 'Saint Vincent and the Grenadines', 'Samoa', 'San Marino', 'Sao Tome and Principe', 'Saudi Arabia', 'Senegal', 'Serbia', 'Seychelles', 'Sierra Leone', 'Singapore', 'Slovakia', 'Slovenia', 'Solomon Islands', 'Somalia', 'South Africa', 'South Georgia and the South Sandwich Islands', 'Spain', 'Sri Lanka', 'Sudan', 'Suriname', 'Swaziland', 'Sweden', 'Switzerland', 'Syrian Arab Republic', 'Taiwan', 'Tajikistan', 'Thailand', 'Timor-Leste', 'Togo', 'Tokelau', 'Tonga', 'Trinidad and Tobago', 'Tunisia', 'Turkey', 'Turkmenistan', 'Turks and Caicos Islands', 'Tuvalu', 'Uganda', 'Ukraine', 'United Arab Emirates', 'United Kingdom', 'United States', 'United States Minor Outlying Islands', 'Uruguay', 'Uzbekistan', 'Vanuatu', 'Viet Nam', 'Wallis and Futuna', 'Yemen', 'Zambia', 'Zimbabwe']
 let ISO2Codes = ['AF', 'AL', 'DZ', 'AD', 'AO', 'AI', 'AG', 'AR', 'AM', 'AW', 'AU', 'AT', 'AZ', 'BS', 'BH', 'BD', 'BB', 'BY', 'BE', 'BZ', 'BJ', 'BM', 'BT', 'BA', 'BW', 'BV', 'BR', 'IO', null, 'BG', 'BF', 'BI', 'KH', 'CM', 'CA', 'CV', 'KY', 'CF', 'TD', 'CL', 'CN', 'CX', null, 'CO', 'KM', null, 'CK', 'CR', 'HR', 'CU', 'CY', 'CZ', 'DK', 'DJ', 'DM', 'DO', 'EC', 'EG', 'SV', 'GQ', 'ER', 'EE', 'ET', null, 'FO', 'FJ', 'FI', 'FR', 'GF', 'PF', 'GA', 'GM', 'GE', 'DE', 'GH', 'GI', 'GR', 'GL', 'GD', 'GP', 'GU', 'GT', 'GG', 'GN', 'GW', 'GY', 'HT', 'HM', null, 'HN', 'HK', 'HU', 'IS', 'IN', 'ID', 'IR', 'IQ', 'IE', 'IM', 'IL', 'IT', 'JM', 'JP', 'JE', 'JO', 'KZ', 'KE', 'KI', 'KW', 'KG', null, 'LV', 'LB', 'LS', 'LR', 'LY', 'LI', 'LT', 'LU', 'MO', 'MG', 'MW', 'MY', 'MV', 'ML', 'MT', 'MH', 'MQ', 'MR', 'MU', 'YT', 'MX', 'MC', 'MN', 'ME', 'MS', 'MA', 'MZ', 'MM', 'NA', 'NR', 'NP', 'NL', 'NC', 'NZ', 'NI', 'NE', 'NG', 'NU', 'NF', 'MP', 'NO', 'OM', 'PK', 'PW', 'PA', 'PG', 'PY', 'PE', 'PH', 'PN', 'PL', 'PT', 'PR', 'QA', null, 'RO', 'RU', 'RW', 'KN', 'LC', 'PM', 'VC', 'WS', 'SM', 'ST', 'SA', 'SN', 'RS', 'SC', 'SL', 'SG', 'SK', 'SI', 'SB', 'SO', 'ZA', 'GS', 'ES', 'LK', 'SD', 'SR', 'SZ', 'SE', 'CH', null, 'TW', 'TJ', 'TH', null, 'TG', 'TK', 'TO', 'TT', 'TN', 'TR', 'TM', 'TC', 'TV', 'UG', 'UA', 'AE', 'GB', 'US', 'UM', 'UY', 'UZ', 'VU', null, 'WF', 'YE', 'ZM', 'ZW']
 
+// these are initial and default dummy data for the graphs on load
 let country1AgeStructureData = {
     labels: ['0-14', '15-24', '24-54', '55-64', '65 and Over'],
     datasets: [
@@ -94,6 +98,7 @@ function Graph() {
 
     const dispatch = useDispatch();
 
+
     useEffect(() => {
         const grabData = async () => {
             console.log('making fetch request')
@@ -108,6 +113,7 @@ function Graph() {
             // console.log(apiData)
             dispatch(addCountries(apiData))
         }
+        // this is a redundant call to make the api in case the user loads onto this page first
         if (!countriesData) {
             grabData();
         }
@@ -121,6 +127,7 @@ function Graph() {
             }
 
         })
+        // two api calls made to obtain data for pie charts at bottom of page
         const getCountry1WorldFactData = async () => {
             let countryObj = lookup.byIso(ISO2Codes[countryNames.indexOf(countriesData.data[country1].country)]);
             // console.log(countryNames.indexOf(countriesData.data[country1].country));
@@ -148,14 +155,15 @@ function Graph() {
         // }
     }, [])
 
+    // this sets the pie chart data from the dummy data once the api calls have been made
     if (country1Facts["People and Society"]) {
-        let age014 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value*(parseFloat(country1Facts["People and Society"]["Age structure"]["0-14 years"].text.split('%')[0])/100))
-        let age1524 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value*(parseFloat(country1Facts["People and Society"]["Age structure"]["15-24 years"].text.split('%')[0])/100))
+        let age014 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value * (parseFloat(country1Facts["People and Society"]["Age structure"]["0-14 years"].text.split('%')[0]) / 100))
+        let age1524 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value * (parseFloat(country1Facts["People and Society"]["Age structure"]["15-24 years"].text.split('%')[0]) / 100))
         // console.log(age1524);
-        let age2554 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value*(parseFloat(country1Facts["People and Society"]["Age structure"]["25-54 years"].text.split('%')[0])/100))
+        let age2554 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value * (parseFloat(country1Facts["People and Society"]["Age structure"]["25-54 years"].text.split('%')[0]) / 100))
         // console.log(age2554);
-        let age5564 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value*(parseFloat(country1Facts["People and Society"]["Age structure"]["55-64 years"].text.split('%')[0])/100))
-        let age65plus = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value*(parseFloat(country1Facts["People and Society"]["Age structure"]["65 years and over"].text.split('%')[0])/100))
+        let age5564 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value * (parseFloat(country1Facts["People and Society"]["Age structure"]["55-64 years"].text.split('%')[0]) / 100))
+        let age65plus = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value * (parseFloat(country1Facts["People and Society"]["Age structure"]["65 years and over"].text.split('%')[0]) / 100))
 
         country1AgeStructureData = {
             labels: ['0-14', '15-24', '25-54', '55-64', '65 and Over'],
@@ -182,14 +190,15 @@ function Graph() {
             ],
         };
     }
+    // this sets the pie chart data from the dummy data once the api calls have been made
     if (country2Facts["People and Society"]) {
-        let age014 = Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value*(parseFloat(country2Facts["People and Society"]["Age structure"]["0-14 years"].text.split('%')[0])/100))
-        let age1524 = Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value*(parseFloat(country2Facts["People and Society"]["Age structure"]["15-24 years"].text.split('%')[0])/100))
+        let age014 = Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value * (parseFloat(country2Facts["People and Society"]["Age structure"]["0-14 years"].text.split('%')[0]) / 100))
+        let age1524 = Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value * (parseFloat(country2Facts["People and Society"]["Age structure"]["15-24 years"].text.split('%')[0]) / 100))
         // console.log(age1524);
-        let age2554 = Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value*(parseFloat(country2Facts["People and Society"]["Age structure"]["25-54 years"].text.split('%')[0])/100))
+        let age2554 = Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value * (parseFloat(country2Facts["People and Society"]["Age structure"]["25-54 years"].text.split('%')[0]) / 100))
         // console.log(age2554);
-        let age5564 = Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value*(parseFloat(country2Facts["People and Society"]["Age structure"]["55-64 years"].text.split('%')[0])/100))
-        let age65plus = Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value*(parseFloat(country2Facts["People and Society"]["Age structure"]["65 years and over"].text.split('%')[0])/100))
+        let age5564 = Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value * (parseFloat(country2Facts["People and Society"]["Age structure"]["55-64 years"].text.split('%')[0]) / 100))
+        let age65plus = Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value * (parseFloat(country2Facts["People and Society"]["Age structure"]["65 years and over"].text.split('%')[0]) / 100))
 
         country2AgeStructureData = {
             labels: ['0-14', '15-24', '25-54', '55-64', '65 and Over'],
@@ -217,7 +226,7 @@ function Graph() {
         };
     }
 
-
+    // options data for the line chart
     const options = {
         // responsive: true,
         plugins: {
@@ -231,10 +240,7 @@ function Graph() {
         },
     };
 
-
-
-
-
+    // data used for line chart
     const data = {
         labels,
         datasets: [
@@ -253,24 +259,20 @@ function Graph() {
         ],
     };
 
-
+    // columns and rows arrays used for table in middle of page
     const columns = [
-        // { field: 'id', headerName: 'ID', width: 70 },
         { field: 'name', headerName: 'Country', width: 150 },
         { field: 'populationStart', headerName: `Population in ${countriesData.data[country1].populationCounts[0].year}`, type: 'number', width: 150 },
         { field: 'populationNow', headerName: `Population in ${countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].year}`, type: 'number', width: 150 },
         { field: 'populationChange', headerName: `% Change in Population`, type: 'number', width: 200 },
-        
+
     ];
 
     const rows = [
-        { id: uuidv4(), name: countriesData.data[country1].country, populationStart: countriesData.data[country1].populationCounts[0].value, populationNow: countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value, populationChange: Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value / countriesData.data[country1].populationCounts[0].value * 100)-100, },
-        { id: uuidv4(), name: countriesData.data[country2].country, populationStart: countriesData.data[country2].populationCounts[0].value, populationNow: countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value, populationChange: Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value / countriesData.data[country2].populationCounts[0].value * 100)-100, }
+        { id: uuidv4(), name: countriesData.data[country1].country, populationStart: countriesData.data[country1].populationCounts[0].value, populationNow: countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value, populationChange: Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value / countriesData.data[country1].populationCounts[0].value * 100) - 100, },
+        { id: uuidv4(), name: countriesData.data[country2].country, populationStart: countriesData.data[country2].populationCounts[0].value, populationNow: countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value, populationChange: Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value / countriesData.data[country2].populationCounts[0].value * 100) - 100, }
     ]
 
-    // console.log(countriesData);
-    // console.log(country1Facts);
-    // console.log(country2Facts);
     return (
         <>
 
@@ -289,7 +291,7 @@ function Graph() {
                     <Fade right>
                         <div className="row justify-content-around">
                             {/* <div className="col-12 col-md-10"> */}
-                                <Line  options={options} data={data} />
+                            <Line options={options} data={data} />
                             {/* </div> */}
                         </div>
                     </Fade>
@@ -312,16 +314,16 @@ function Graph() {
                         </div>
                         <div className='row col-12'>
                             <Fade cascade left>
-                            <div className="col-12 col-md-6">
-                                <div className='info-text' style={{ textAlign: "center", fontWeight: 'bold' }}>Age Structure of {countriesData.data[country1].country}</div>
-                                <Pie data={country1AgeStructureData} />
-                            </div>
+                                <div className="col-12 col-md-6">
+                                    <div className='info-text' style={{ textAlign: "center", fontWeight: 'bold' }}>Age Structure of {countriesData.data[country1].country}</div>
+                                    <Pie data={country1AgeStructureData} />
+                                </div>
                             </Fade>
                             <Fade cascade right>
-                            <div className="col-12 col-md-6">
-                                <div className='info-text' style={{ textAlign: "center", fontWeight: 'bold' }}>Age Structure of {countriesData.data[country2].country}</div>
-                                <Pie data={country2AgeStructureData} />
-                            </div>
+                                <div className="col-12 col-md-6">
+                                    <div className='info-text' style={{ textAlign: "center", fontWeight: 'bold' }}>Age Structure of {countriesData.data[country2].country}</div>
+                                    <Pie data={country2AgeStructureData} />
+                                </div>
                             </Fade>
                         </div>
 

@@ -9,9 +9,11 @@ import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
 import { Pie, Doughnut } from 'react-chartjs-2';
 const lookup = require('country-code-lookup')
 
+// this is my method for matching country names with ISO2 codes and using the ISO2 codes to return the FIPS code using the "lookup" function imported in because different apis/datasets use different standards for country names and codes
 let countryNames = ['Afghanistan', 'Albania', 'Algeria', 'Andorra', 'Angola', 'Anguilla', 'Antigua and Barbuda', 'Argentina', 'Armenia', 'Aruba', 'Australia', 'Austria', 'Azerbaijan', 'Bahamas', 'Bahrain', 'Bangladesh', 'Barbados', 'Belarus', 'Belgium', 'Belize', 'Benin', 'Bermuda', 'Bhutan', 'Bolivia', 'Bosnia and Herzegovina', 'Botswana', 'Bouvet Island', 'Brazil', 'British Indian Ocean Territory', 'Brunei Darussalam', 'Bulgaria', 'Burkina Faso', 'Burundi', 'Cambodia', 'Cameroon', 'Canada', 'Cape Verde', 'Cayman Islands', 'Central African Republic', 'Chad', 'Chile', 'China', 'Christmas Island', 'Cocos (Keeling) Islands', 'Colombia', 'Comoros', 'Congo', 'Cook Islands', 'Costa Rica', 'Croatia', 'Cuba', 'Cyprus', 'Czech Republic', 'Denmark', 'Djibouti', 'Dominica', 'Dominican Republic', 'Ecuador', 'Egypt', 'El Salvador', 'Equatorial Guinea', 'Eritrea', 'Estonia', 'Ethiopia', 'Falkland Islands (Malvinas)', 'Faroe Islands', 'Fiji', 'Finland', 'France', 'French Guiana', 'French Polynesia', 'Gabon', 'Gambia', 'Georgia', 'Germany', 'Ghana', 'Gibraltar', 'Greece', 'Greenland', 'Grenada', 'Guadeloupe', 'Guam', 'Guatemala', 'Guernsey', 'Guinea', 'Guinea-Bissau', 'Guyana', 'Haiti', 'Heard Island and McDonald Islands', 'Holy See (Vatican City State)', 'Honduras', 'Hong Kong', 'Hungary', 'Iceland', 'India', 'Indonesia', 'Iran', 'Iraq', 'Ireland', 'Isle of Man', 'Israel', 'Italy', 'Jamaica', 'Japan', 'Jersey', 'Jordan', 'Kazakhstan', 'Kenya', 'Kiribati', 'Kosovo', 'Kuwait', 'Kyrgyzstan', "Lao People's Democratic Republic", 'Latvia', 'Lebanon', 'Lesotho', 'Liberia', 'Libya', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Macao', 'Madagascar', 'Malawi', 'Malaysia', 'Maldives', 'Mali', 'Malta', 'Marshall Islands', 'Martinique', 'Mauritania', 'Mauritius', 'Mayotte', 'Mexico', 'Monaco', 'Mongolia', 'Montenegro', 'Montserrat', 'Morocco', 'Mozambique', 'Myanmar', 'Namibia', 'Nauru', 'Nepal', 'Netherlands', 'New Caledonia', 'New Zealand', 'Nicaragua', 'Niger', 'Nigeria', 'Niue', 'Norfolk Island', 'Northern Mariana Islands', 'Norway', 'Oman', 'Pakistan', 'Palau', 'Panama', 'Papua New Guinea', 'Paraguay', 'Peru', 'Philippines', 'Pitcairn', 'Poland', 'Portugal', 'Puerto Rico', 'Qatar', 'Réunion', 'Romania', 'Russian Federation', 'Rwanda', 'Saint Kitts and Nevis', 'Saint Lucia', 'Saint Pierre and Miquelon', 'Saint Vincent and the Grenadines', 'Samoa', 'San Marino', 'Sao Tome and Principe', 'Saudi Arabia', 'Senegal', 'Serbia', 'Seychelles', 'Sierra Leone', 'Singapore', 'Slovakia', 'Slovenia', 'Solomon Islands', 'Somalia', 'South Africa', 'South Georgia and the South Sandwich Islands', 'Spain', 'Sri Lanka', 'Sudan', 'Suriname', 'Swaziland', 'Sweden', 'Switzerland', 'Syrian Arab Republic', 'Taiwan', 'Tajikistan', 'Thailand', 'Timor-Leste', 'Togo', 'Tokelau', 'Tonga', 'Trinidad and Tobago', 'Tunisia', 'Turkey', 'Turkmenistan', 'Turks and Caicos Islands', 'Tuvalu', 'Uganda', 'Ukraine', 'United Arab Emirates', 'United Kingdom', 'United States', 'United States Minor Outlying Islands', 'Uruguay', 'Uzbekistan', 'Vanuatu', 'Vietnam', 'Wallis and Futuna', 'Yemen', 'Zambia', 'Zimbabwe']
 let ISO2Codes = ['AF', 'AL', 'DZ', 'AD', 'AO', 'AI', 'AG', 'AR', 'AM', 'AW', 'AU', 'AT', 'AZ', 'BS', 'BH', 'BD', 'BB', 'BY', 'BE', 'BZ', 'BJ', 'BM', 'BT', 'BO', 'BA', 'BW', 'BV', 'BR', 'IO', 'BN', 'BG', 'BF', 'BI', 'KH', 'CM', 'CA', 'CV', 'KY', 'CF', 'TD', 'CL', 'CN', 'CX', null, 'CO', 'KM', null, 'CK', 'CR', 'HR', 'CU', 'CY', 'CZ', 'DK', 'DJ', 'DM', 'DO', 'EC', 'EG', 'SV', 'GQ', 'ER', 'EE', 'ET', null, 'FO', 'FJ', 'FI', 'FR', 'GF', 'PF', 'GA', 'GM', 'GE', 'DE', 'GH', 'GI', 'GR', 'GL', 'GD', 'GP', 'GU', 'GT', 'GG', 'GN', 'GW', 'GY', 'HT', 'HM', null, 'HN', 'HK', 'HU', 'IS', 'IN', 'ID', 'IR', 'IQ', 'IE', 'IM', 'IL', 'IT', 'JM', 'JP', 'JE', 'JO', 'KZ', 'KE', 'KI', 'XK', 'KW', 'KG', null, 'LV', 'LB', 'LS', 'LR', 'LY', 'LI', 'LT', 'LU', 'MO', 'MG', 'MW', 'MY', 'MV', 'ML', 'MT', 'MH', 'MQ', 'MR', 'MU', 'YT', 'MX', 'MC', 'MN', 'ME', 'MS', 'MA', 'MZ', 'MM', 'NA', 'NR', 'NP', 'NL', 'NC', 'NZ', 'NI', 'NE', 'NG', 'NU', 'NF', 'MP', 'NO', 'OM', 'PK', 'PW', 'PA', 'PG', 'PY', 'PE', 'PH', 'PN', 'PL', 'PT', 'PR', 'QA', null, 'RO', 'RU', 'RW', 'KN', 'LC', 'PM', 'VC', 'WS', 'SM', 'ST', 'SA', 'SN', 'RS', 'SC', 'SL', 'SG', 'SK', 'SI', 'SB', 'SO', 'ZA', 'GS', 'ES', 'LK', 'SD', 'SR', 'SZ', 'SE', 'CH', null, 'TW', 'TJ', 'TH', null, 'TG', 'TK', 'TO', 'TT', 'TN', 'TR', 'TM', 'TC', 'TV', 'UG', 'UA', 'AE', 'GB', 'US', 'UM', 'UY', 'UZ', 'VU', 'VN', 'WF', 'YE', 'ZM', 'ZW']
-// console.log(ISO2Codes[166]);
+
+// these are initial and default dummy data for the graphs on load
 let ageStructureData = {
     labels: ['0-14', '15-24', '24-54', '55-64', '65 and Over'],
     datasets: [
@@ -93,7 +95,6 @@ function CountryInformation() {
     const country1 = useSelector(state => state.populationRDC.country1);
     const [countryFlag, setCountryFlag] = useState('');
     const [countryCapital, setCountryCapital] = useState('')
-    // const [countryISO2, setCountryISO2] = useState(ISO2Codes[countryNames.indexOf(country1)]);
     const [countryFacts, setCountryFacts] = useState({})
     const [chosenCountryCities] = useState(citiesData.data.filter(city => city.country.toLowerCase().includes(countriesData.data[country1].country.toLowerCase())))
     const capitalsData = useSelector(state => state.populationRDC.capitals);
@@ -101,7 +102,7 @@ function CountryInformation() {
     const [showEco, setShowEco] = useState(false);
     const [showGeo, setShowGeo] = useState(false);
     const [showDis, setShowDis] = useState(false);
-    
+
     let chosenCountryCitiesRowObj = chosenCountryCities.map(city => {
         return {
             id: uuidv4(),
@@ -111,18 +112,13 @@ function CountryInformation() {
         }
     })
 
-
-    // let age1524 = parseFloat(countryFacts["People and Society"]["Age structure"]["15-24 years"].text.split('%')[0]);
-
+    // this sets the pie chart data from the dummy data once the api calls have been made
     if (countryFacts["People and Society"]) {
         // console.log(countryFacts);
-        // console.log(countryFacts.Economy["Economy - overview"].text.indexOf(" ++ "));
 
         let age014 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value * (parseFloat(countryFacts["People and Society"]["Age structure"]["0-14 years"].text.split('%')[0]) / 100))
         let age1524 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value * (parseFloat(countryFacts["People and Society"]["Age structure"]["15-24 years"].text.split('%')[0]) / 100))
-        // console.log(age1524);
         let age2554 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value * (parseFloat(countryFacts["People and Society"]["Age structure"]["25-54 years"].text.split('%')[0]) / 100))
-        // console.log(age2554);
         let age5564 = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value * (parseFloat(countryFacts["People and Society"]["Age structure"]["55-64 years"].text.split('%')[0]) / 100))
         let age65plus = Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value * (parseFloat(countryFacts["People and Society"]["Age structure"]["65 years and over"].text.split('%')[0]) / 100))
 
@@ -213,15 +209,10 @@ function CountryInformation() {
         }
     }
 
-
-
-    // console.log(countryFlagObj);
-
-
-
+    // setting flags and capitals data from saved state as well as making api call for specific country facts
     useEffect(() => {
 
-        let fixedFlagsData = [...flagsData.data, { name: 'russian federation', flag: "https://media.istockphoto.com/photos/flat-flag-of-russia-picture-id545240242?b=1&k=20&m=545240242&s=170667a&w=0&h=yKr6P7hfTVOvObUXFCZAfrm-yb2Hx9w3hHXaofVnxwc=" }, { name: 'south sudan', flag: 'https://cdn.britannica.com/37/150637-004-5D1F2321/Bandera-de-Sudan-del-Sur.jpg' }, { name: 'american samoa', flag: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/1200px-Flag_of_American_Samoa.svg.png' }, { name: 'libya', flag: 'https://cdn.britannica.com/37/3037-004-1C8F9958/Flag-Libya.jpg' }, {name: 'bolivia', flag: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/1200px-Bandera_de_Bolivia_%28Estado%29.svg.png'}, {name: 'brunei darussalam', flag: 'https://cdn.britannica.com/24/4024-004-246630D3/Flag-Brunei.jpg'}, {name: 'kosovo', flag: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1200px-Flag_of_Kosovo.svg.png'}];
+        let fixedFlagsData = [...flagsData.data, { name: 'russian federation', flag: "https://media.istockphoto.com/photos/flat-flag-of-russia-picture-id545240242?b=1&k=20&m=545240242&s=170667a&w=0&h=yKr6P7hfTVOvObUXFCZAfrm-yb2Hx9w3hHXaofVnxwc=" }, { name: 'south sudan', flag: 'https://cdn.britannica.com/37/150637-004-5D1F2321/Bandera-de-Sudan-del-Sur.jpg' }, { name: 'american samoa', flag: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/1200px-Flag_of_American_Samoa.svg.png' }, { name: 'libya', flag: 'https://cdn.britannica.com/37/3037-004-1C8F9958/Flag-Libya.jpg' }, { name: 'bolivia', flag: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/1200px-Bandera_de_Bolivia_%28Estado%29.svg.png' }, { name: 'brunei darussalam', flag: 'https://cdn.britannica.com/24/4024-004-246630D3/Flag-Brunei.jpg' }, { name: 'kosovo', flag: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1200px-Flag_of_Kosovo.svg.png' }];
 
         // console.log(fixedFlagsData);
         let countryFlagObj = fixedFlagsData.filter(country => country.name.toLowerCase().includes(countriesData.data[country1].country.toLowerCase()));
@@ -244,8 +235,6 @@ function CountryInformation() {
         }
         const getWorldFactData = async () => {
             let countryObj = lookup.byIso(ISO2Codes[countryNames.indexOf(countriesData.data[country1].country)]);
-            // console.log(countryNames.indexOf(countriesData.data[country1].country));
-            // console.log(countryObj.fips);
             let response = await fetch(`https://raw.githubusercontent.com/Jeith/worldfactbookapi/master/countries/${countryObj.fips.toLowerCase()}.json`);
             let result = await response.json();
             // console.log(result);
@@ -255,11 +244,8 @@ function CountryInformation() {
 
     }, [])
 
-
-
-
+    // columns and rows arrays used for table in middle of page
     const columns = [
-        // { field: 'id', headerName: 'ID', width: 70 },
         { field: 'city', headerName: 'City', width: 150 },
         { field: 'year', headerName: 'Year', width: 60 },
         {
@@ -271,16 +257,13 @@ function CountryInformation() {
     ];
     const rows = chosenCountryCitiesRowObj;
 
+    // formats number to look better
     function numberWithCommas(x) {
         return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     }
 
-    // console.log(countryFacts);
-    // console.log(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value);
-
     return (
         <>
-            {/* <Link to="/countrycomparison" >Compare Countries</Link> */}
 
             <div className="row justify-content-between">
                 <div className="col-12 col-md-10 offset-md-1">
@@ -317,8 +300,6 @@ function CountryInformation() {
                                     <DataGrid
                                         rows={rows}
                                         columns={columns}
-                                    // pageSize={10}
-                                    // rowsPerPageOptions={[10]}
                                     />
                                 </div>
                             </div></div> : null}

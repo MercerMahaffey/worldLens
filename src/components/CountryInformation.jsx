@@ -98,10 +98,10 @@ function CountryInformation() {
     const [countryFacts, setCountryFacts] = useState({})
     const [chosenCountryCities] = useState(citiesData.data.filter(city => city.country.toLowerCase().includes(countriesData.data[country1].country.toLowerCase())))
     const capitalsData = useSelector(state => state.populationRDC.capitals);
-    const [showPop, setShowPop] = useState(false);
-    const [showEco, setShowEco] = useState(false);
-    const [showGeo, setShowGeo] = useState(false);
-    const [showDis, setShowDis] = useState(false);
+    const [showPop, setShowPop] = useState(true);
+    const [showEco, setShowEco] = useState(true);
+    const [showGeo, setShowGeo] = useState(true);
+    const [showDis, setShowDis] = useState(true);
 
     let chosenCountryCitiesRowObj = chosenCountryCities.map(city => {
         return {

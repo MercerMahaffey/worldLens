@@ -312,7 +312,7 @@ function Graph() {
                                 </div>
                             </Fade>
                         </div>
-                        <div className='row col-12'>
+                        <div className='row col-12 mt-5'>
                             <Fade cascade left>
                                 <div className="col-12 col-md-6">
                                     <div className='info-text' style={{ textAlign: "center", fontWeight: 'bold' }}>Age Structure of {countriesData.data[country1].country}</div>

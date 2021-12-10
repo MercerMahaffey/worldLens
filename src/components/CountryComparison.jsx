@@ -310,7 +310,6 @@ function Graph() {
                                 </div>
                             </Fade>
                         </div>
-                        <hr />
                         <div className='row col-12'>
                             <Fade cascade left>
                             <div className="col-12 col-md-6">

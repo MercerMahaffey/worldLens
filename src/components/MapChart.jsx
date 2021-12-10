@@ -228,7 +228,7 @@ function MapChart({ chartType }) {
     return (
         <>
             <Zoom>
-                <ComposableMap style={{ height: '75vh', width: '100%' }}
+                <ComposableMap style={{ height: '70vh', width: '100%' }}
                     projectionConfig={{
                         rotate: [-10, 0, 0],
                         scale: 147

@@ -259,6 +259,7 @@ function App() {
           <Button style={{fontFamily: "Noto Serif Display, serif",color: "rgb(20, 111, 197)",textDecoration: "none", fontSize: "13px"}} onClick={() => setDataChoice('Age Dependency')} >Age Dependency Ratio</Button>
           <Button style={{fontFamily: "Noto Serif Display, serif",color: "rgb(20, 111, 197)",textDecoration: "none", fontSize: "13px"}} onClick={() => setDataChoice('Doctors Per 100,000 People')} >Doctors Per 100,000 People</Button>
         </ButtonGroup> */}
+        <div>Move slider to change chart.</div>
         <Slider onChange={(e)=>setSliderNumber(e.target.value)}
         aria-label="Chart"
         color='primary'
@@ -270,7 +271,7 @@ function App() {
         max={5}
         />
         </div>
-        <div style={{ width: '100%', textAlign: 'center', position: 'absolute', top: '25vh', zIndex: '3' }} className="col-12">
+        <div style={{ width: '100%', textAlign: 'center', position: 'absolute', top: '27vh', zIndex: '3' }} className="col-12">
 
         {countriesData.data ? <h2><Link className="selectedCountry" to="/countryinformation" >Info on {countriesData.data[country1].country}</Link></h2> : <h1>Choose a Country</h1>}
 
@@ -280,7 +281,7 @@ function App() {
             <MapChart chartType={dataChoice} /> 
           </div>
         </div>
-        <div style={{fontFamily: "Noto Serif Display, serif",textDecoration: "none", fontSize: "15px", position: 'absolute', bottom: '15%',  width: '100%', textAlign: 'center' }}>
+        <div style={{fontFamily: "Noto Serif Display, serif",textDecoration: "none", fontSize: "15px", position: 'absolute', bottom: '8%',  width: '100%', textAlign: 'center' }}>
           Map of <Link className="pageLink2" to="/information" >{dataChoice}</Link>. Click country to change selection.
         </div>
       </div>

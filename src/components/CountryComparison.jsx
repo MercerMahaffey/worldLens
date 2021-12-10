@@ -219,7 +219,7 @@ function Graph() {
 
 
     const options = {
-        responsive: true,
+        // responsive: true,
         plugins: {
             legend: {
                 position: 'top',
@@ -269,8 +269,8 @@ function Graph() {
     ];
 
     const rows = [
-        { id: uuidv4(), name: countriesData.data[country1].country, populationStart: countriesData.data[country1].populationCounts[0].value, populationNow: countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value, populationChange: Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value / countriesData.data[country1].populationCounts[0].value * 100), },
-        { id: uuidv4(), name: countriesData.data[country2].country, populationStart: countriesData.data[country2].populationCounts[0].value, populationNow: countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value, populationChange: Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value / countriesData.data[country2].populationCounts[0].value * 100), }
+        { id: uuidv4(), name: countriesData.data[country1].country, populationStart: countriesData.data[country1].populationCounts[0].value, populationNow: countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value, populationChange: Math.floor(countriesData.data[country1].populationCounts[countriesData.data[country1].populationCounts.length - 1].value / countriesData.data[country1].populationCounts[0].value * 100)-100, },
+        { id: uuidv4(), name: countriesData.data[country2].country, populationStart: countriesData.data[country2].populationCounts[0].value, populationNow: countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value, populationChange: Math.floor(countriesData.data[country2].populationCounts[countriesData.data[country2].populationCounts.length - 1].value / countriesData.data[country2].populationCounts[0].value * 100)-100, }
     ]
 
     // console.log(countriesData);
@@ -293,11 +293,12 @@ function Graph() {
                     </div>
                     <Fade right>
                         <div className="row justify-content-around">
-                            <div className="col-12 col-md-10">
-                                <Line options={options} data={data} />
-                            </div>
+                            {/* <div className="col-12 col-md-10"> */}
+                                <Line  options={options} data={data} />
+                            {/* </div> */}
                         </div>
                     </Fade>
+                    <hr />
                     <div className="row justify-content-center">
                         {/* <div style={{textAlign: 'center'}} className="col-12">
                         Population change between 1960 and {labels[labels.length - 1]}:
@@ -312,14 +313,18 @@ function Graph() {
                             <Fade left>
                                 <div style={{ height: 200, width: '100%' }}>
                                     <DataGrid
+                                        autoHeight={true}
+                                        disableExtendRowFullWidth={true}
                                         rows={rows}
                                         columns={columns}
                                         pageSize={10}
+                                        className='dataGrid'
                                     // rowsPerPageOptions={[10]}
                                     />
                                 </div>
                             </Fade>
                         </div>
+                        <hr />
                         <div className='row col-12'>
                             <Fade cascade left>
                             <div className="col-12 col-md-6">
